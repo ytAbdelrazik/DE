@@ -1,0 +1,78 @@
+Found valid 'numero dol' element: $11,836
+Found valid 'numero dol' element: $11,469
+Found valid 'numero dol' element: $11,510
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: 
+Found valid 'numero dol' element: $46,305
+Found valid 'numero dol' element: $42,581
+Found valid 'numero dol' element: $45,316
+Found valid 'numero dol' element: $40,537
+Found valid 'numero dol' element: $41,831
+Found valid 'numero dol' element: $42,916
+Found valid 'numero dol' element: $40,037
+Found valid 'numero dol' element: $38,309
+Found valid 'numero dol' element: $37,989
+Found valid 'numero dol' element: $44,699
+Found valid 'numero dol' element: $44,211
+Found valid 'numero dol' element: $42,362
+Found valid 'numero dol' element: $45,503
+Found valid 'numero dol' element: $42,195
+Found valid 'numero dol' element: $43,178
+Found valid 'numero dol' element: $47,099
+Found valid 'numero dol' element: $42,983
+Found valid 'numero dol' element: $37,752
+Found valid 'numero dol' element: $35,978
+Found valid 'numero dol' element: $34,854
+Found valid 'numero dol' element: $30,525
+Found valid 'numero dol' element: $24,987
+Found valid 'numero dol' element: $23,122
+Found valid 'numero dol' element: $23,133
+Found valid 'numero dol' element: $25,444
+Found valid 'numero dol' element: $25,712
+Found valid 'numero dol' element: $24,968
+Found valid 'numero dol' element: $27,604
+Found valid 'numero dol' element: $27,639
+Found valid 'numero dol' element: $24,120
+Found valid 'numero dol' element: $22,936
+Found valid 'numero dol' element: $24,384
+Found valid 'numero dol' element: $22,224
+Found valid 'numero dol' element: $22,286
+Found valid 'numero dol' element: $18,086
+Found valid 'numero dol' element: $18,097
+Found valid 'numero dol' element: $16,653
+Found valid 'numero dol' element: $13,829
+Found valid 'numero dol' element: $10,000
+Found valid 'numero dol' element: $9,594
+Found valid 'numero dol' element: $10,173
+Found valid 'numero dol' element: $10,698
+Found valid 'numero dol' element: $11,338
+Found valid 'numero dol' element: $12,944
+Found valid 'numero dol' element: $11,180
+Found valid 'numero dol' element: $9,265
+Found valid 'numero dol' element: $7,533
+Found valid 'numero dol' element: $6,867
+Found valid 'numero dol' element: $6,691
+Found valid 'numero dol' element: $5,328
+Found valid 'numero dol' element: $4,970
+Found valid 'numero dol' element: $3,855
+Found valid 'numero dol' element: $3,169
+Found valid 'numero dol' element: $2,857
+Found valid 'numero dol' element: $2,752
+Found valid 'numero dol' element: $2,536
+Found valid 'numero dol' element: $2,343
+Found valid 'numero dol' element: $2,186
+Found valid 'numero dol' element: $2,038
+Found valid 'numero dol' element: $1,910
+Found valid 'numero dol' element: $1,745
+Found valid 'numero dol' element: $1,578
+Found valid 'numero dol' element: $1,428
+Found valid 'numero dol' element: $1,335

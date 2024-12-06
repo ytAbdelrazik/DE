@@ -1,0 +1,124 @@
+Year: 1930, Data: ['2019']
+Year: 1930, Data: ['2018']
+Year: 1930, Data: ['2017']
+Year: 1930, Data: ['2016']
+Year: 1930, Data: ['2015']
+Year: 1930, Data: ['2014']
+Year: 1930, Data: ['2013']
+Year: 1930, Data: ['2012']
+Year: 1930, Data: ['2011']
+Year: 1930, Data: ['2010']
+Year: 1930, Data: ['2009']
+Year: 1930, Data: ['2008']
+Year: 1930, Data: ['2007']
+Year: 1930, Data: ['2006']
+Year: 1930, Data: ['2005']
+Year: 1930, Data: ['2004']
+Year: 1930, Data: ['2003']
+Year: 1930, Data: ['2002']
+Year: 1930, Data: ['2001']
+Year: 1930, Data: ['2000']
+Year: 1930, Data: ['1999']
+Year: 1930, Data: ['1998', '']
+Year: 1930, Data: ['1997', '']
+Year: 1930, Data: ['1996', '']
+Year: 1930, Data: ['1995', '']
+Year: 1930, Data: ['1994', '']
+Year: 1930, Data: ['1993', '']
+Year: 1930, Data: ['1992', '']
+Year: 1930, Data: ['1991', '']
+Year: 1930, Data: ['1990', '']
+Year: 1930, Data: ['1989', '']
+Year: 1930, Data: ['1988', '']
+Year: 1930, Data: ['1987', '']
+Year: 1930, Data: ['1986', '']
+Year: 1930, Data: ['1985', '']
+Year: 1930, Data: ['1984', '']
+Year: 1930, Data: ['1983', '']
+Year: 1930, Data: ['1982', '']
+Year: 1930, Data: ['1981', '']
+Year: 1930, Data: ['1980', '']
+Year: 1930, Data: ['1979', '']
+Year: 1930, Data: ['1978', '']
+Year: 1930, Data: ['1977', '']
+Year: 1930, Data: ['1976', '']
+Year: 1930, Data: ['1975', '']
+Year: 1930, Data: ['1974', '']
+Year: 1930, Data: ['1973', '']
+Year: 1930, Data: ['1972', '']
+Year: 1930, Data: ['1971', '']
+Year: 1930, Data: ['1970', '']
+Year: 1930, Data: ['1969', '']
+Year: 1930, Data: ['1968', '']
+Year: 1930, Data: ['1967', '']
+Year: 1930, Data: ['1966', '']
+Year: 1930, Data: ['1965', '']
+Year: 1930, Data: ['1964', '']
+Year: 1930, Data: ['1963', '']
+Year: 1930, Data: ['1962', '']
+Year: 1930, Data: ['1961', '']
+Year: 1930, Data: ['1960', '', '']
+Found valid 'numero dol' element: $3,744
+Found valid 'numero dol' element: $4,587
+Found valid 'numero dol' element: $4,146
+Found valid 'numero dol' element: $3,802
+Found valid 'numero dol' element: $3,214
+Found valid 'numero dol' element: $2,710
+Found valid 'numero dol' element: $2,593
+Found valid 'numero dol' element: $3,862
+Found valid 'numero dol' element: $3,934
+Found valid 'numero dol' element: $3,705
+Found valid 'numero dol' element: $3,584
+Found valid 'numero dol' element: $3,569
+Found valid 'numero dol' element: $3,077
+Found valid 'numero dol' element: $2,923
+Found valid 'numero dol' element: $2,579
+Found valid 'numero dol' element: $2,271
+Found valid 'numero dol' element: $1,862
+Found valid 'numero dol' element: $1,564
+Found valid 'numero dol' element: $1,331
+Found valid 'numero dol' element: $1,196
+Found valid 'numero dol' element: $1,252
+Found valid 'numero dol' element: $1,355
+Found valid 'numero dol' element: $1,566
+Found valid 'numero dol' element: $1,637
+Found valid 'numero dol' element: $1,518
+Found valid 'numero dol' element: $1,455
+Found valid 'numero dol' element: $1,327
+Found valid 'numero dol' element: $1,209
+Found valid 'numero dol' element: $1,098
+Found valid 'numero dol' element: $969
+Found valid 'numero dol' element: $897
+Found valid 'numero dol' element: $825
+Found valid 'numero dol' element: $924
+Found valid 'numero dol' element: $1,871
+Found valid 'numero dol' element: $2,266
+Found valid 'numero dol' element: $1,858
+Found valid 'numero dol' element: $1,585
+Found valid 'numero dol' element: $1,132
+Found valid 'numero dol' element: $1,049
+Found valid 'numero dol' element: $926
+Found valid 'numero dol' element: $846
+Found valid 'numero dol' element: $711
+Found valid 'numero dol' element: $618
+Found valid 'numero dol' element: $580
+Found valid 'numero dol' element: $423
+Found valid 'numero dol' element: $356
+Found valid 'numero dol' element: $355
+Found valid 'numero dol' element: $336
+Found valid 'numero dol' element: $300
+Found valid 'numero dol' element: $243
+Found valid 'numero dol' element: $272
+Found valid 'numero dol' element: $256
+Found valid 'numero dol' element: $242
+Found valid 'numero dol' element: $231
+Found valid 'numero dol' element: $192
+Found valid 'numero dol' element: $179
+Found valid 'numero dol' element: $173
+Found valid 'numero dol' element: $167
+Found valid 'numero dol' element: $161
+Found valid 'numero dol' element: $159
+Found valid 'numero dol' element: $142
+Found valid 'numero dol' element: $141
+Found valid 'numero dol' element: $156
+Found valid 'numero dol' element: $153
