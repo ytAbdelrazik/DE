@@ -1,0 +1,908 @@
+,Unnamed: 0,Name,countryOfCitizenship,gender,Era,Education
+0,0,Elon Musk,United States,M,Early 1970s,"University of Pennsylvania ( BA , BS )"
+1,1,Larry Ellison,United States,M,Early 1940s,"University of Illinois, Urbana-Champaign (no degree) University of Chicago (no degree)"
+2,2,Jeff Bezos,United States,M,Early 1960s,Princeton University ( BSE )
+3,3,Mark Zuckerberg,United States,M,Early 1980s,Harvard University (dropped out)
+4,4,Warren Buffett,United States,M,Early 1930s,University of Pennsylvania University of Nebraska–Lincoln ( BS ) Columbia University ( MS )
+5,5,Larry Page,United States,M,Early 1970s,University of Michigan ( BSE ) Stanford University ( MS ) Stanford University ( Unfinished PHD )
+6,6,Sergey Brin,United States,M,Early 1970s,"University of Maryland, College Park ( BS ) Stanford University ( MS ) Stanford University ( Unfinished PhD )"
+7,7,Jensen Huang,United States,M,Early 1960s,Oregon State University ( BSE ) Stanford University ( MS )
+8,8,Steve Ballmer,United States,M,Late 1950s,Harvard University ( BA ) Stanford University (dropped out)
+9,9,Michael Dell,United States,M,Late 1960s,University of Texas at Austin (dropped out)
+10,10,Bill Gates,United States,M,Late 1950s,Harvard University (dropped out)
+11,11,Michael Bloomberg,United States,M,Early 1940s,Johns Hopkins University ( BS ) Harvard University ( MBA )
+12,12,Alice Walton,United States,F,Late 1940s,Trinity University ( BA ) [ 2 ]
+13,13,Mukesh Ambani,India,M,Late 1950s,"St. Xavier's College, Mumbai Institute of Chemical Technology (B.E.)"
+14,14,Changpeng Zhao,Canada,M,Late 1970s,McGill University ( BSc. )
+15,15,Stephen Schwarzman,United States,M,Late 1940s,Yale University ( BA ) Harvard University ( MBA )
+16,16,Gautam Adani,India,M,Early 1960s,"Gujarat University (dropped out, 1978) [ 1 ]"
+17,17,Jeff Yass,United States,M,Late 1950s,Binghamton University ( BA ) New York University
+18,18,Jacqueline Mars,United States,F,Late 1930s,Bryn Mawr College [ 2 ]
+19,19,Zhang Yiming,China,M,Early 1980s,Nankai University (2001–2005) BEng
+20,20,Ma Huateng,China,M,Early 1970s,Shenzhen University ( BS )
+21,21,Shiv Nadar,India,M,Late 1940s,PSG College of Technology
+22,22,Giovanni Ferrero,Italy,M,Early 1960s,European Schools
+23,23,Gerard Wertheimer,France,M,Early 1950s,University of Paris
+24,24,Abigail Johnson,United States,F,Early 1960s,William Smith College ( BA ) Harvard University ( MBA )
+25,25,Lukas Walton,United States,M,Late 1980s,Journeys School
+26,26,Robin Zeng,Hong Kong,M,Late 1960s,"Shanghai Jiaotong University ( BEng ) South China University of Technology (M.Sc) Institute of Physics, Chinese Academy of Sciences (PhD)"
+27,27,Mark Mateschitz,Austria,M,Early 1990s,Salzburg University of Applied Sciences
+28,28,Colin Huang,China,M,Early 1980s,Zhejiang University University of Wisconsin
+29,29,Gianluigi Aponte,Switzerland,M,Early 1940s,Istituto Tecnico Nautico Statale Nino Bixio
+30,30,Eduardo Saverin,Brazil,M,Early 1980s,Harvard University ( BA )
+31,31,Melinda French Gates,United States,F,Early 1960s,"Duke University ( BA , MBA )"
+32,32,Gina Rinehart,Australia,F,Early 1950s,St Hilda's School
+33,33,Len Blavatnik,United States,M,Late 1950s,Moscow State University of Railway Engineering Columbia University ( MS ) Harvard University ( MBA )
+34,34,Masayoshi Son,Japan,M,Late 1950s,"University of California, Berkeley"
+35,35,Dilip Shanghvi,India,M,Late 1950s,"Bhawanipur Education Society College , University of Calcutta"
+36,36,William Ding,China,M,Early 1970s,University of Electronic Science and Technology of China
+37,37,MacKenzie Scott,United States,F,Early 1970s,Princeton University ( BA )
+38,38,Vladimir Lisin,Russia,M,Late 1950s,"Siberian Metallurgic Institute Russian Presidential Academy of National Economy and Public Administration Moscow Institute of Steel and Alloys , PhD"
+39,39,Vagit Alekperov,Russia,M,Early 1950s,"Azerbaijan State Oil and Industry University , Master of Engineering"
+40,40,R. Budi Hartono,Indonesia,M,Early 1940s,Diponegoro University
+41,41,Emmanuel Besnier,France,M,Early 1970s,Lycée de l'Immaculée-Conception
+42,42,Michael Hartono,Indonesia,M,Late 1930s,Diponegoro University
+43,43,Vladimir Potanin,Russia,M,Early 1960s,Moscow State Institute of International Relations Masters in Finance (MGIMO) with the Ministry of Foreign Affairs
+44,44,Jack Ma,China,M,Early 1960s,Hangzhou Normal University ( BA )
+45,45,Eric Schmidt,United States,M,Late 1950s,"Princeton University ( BSE ) University of California, Berkeley ( MS , PhD )"
+46,46,Lei Jun,China,M,Late 1960s,"Wuhan University , BEng (1991) [ 1 ] [ 2 ]"
+47,47,Kumar Birla,India,M,Late 1960s,University of Mumbai ( BCom ) London Business School ( MBA )
+48,48,Cyrus Poonawalla,India,M,Early 1940s,Brihan Maharashtra College of Commerce
+49,49,David Tepper,United States,M,Late 1950s,University of Pittsburgh (BA) Carnegie Mellon University (MSIA)
+50,50,Wang Chuanfu,China,M,Late 1960s,Central South University Beijing Non-Ferrous Research Institute
+51,51,Takemitsu Takizaki,Japan,M,Late 1940s,Amagasaki Industry High School
+52,52,Susanne Klatten,Germany,F,Early 1960s,IMD - Lausanne (MBA)
+53,53,Stefan Quandt,Germany,M,Late 1960s,Karlsruhe Institute of Technology
+54,54,Donald Bren,United States,M,Early 1930s,University of Washington ( BA )
+55,55,Ernest Garcia II,United States,M,Late 1950s,University of Arizona
+56,56,Kushal Pal Singh,India,M,Early 1930s,Meerut College
+57,57,Robert Pera,United States,M,Late 1970s,"University of California, San Diego"
+58,58,Huang Shilin,China,M,Late 1960s,Hefei University of Technology ( B.Tech )
+59,59,Manuel Villar,Philippines,M,Late 1940s,"University of the Philippines Diliman ( BS , MBA )"
+60,60,Leon Black,United States,M,Early 1950s,Dartmouth College Harvard Business School
+61,61,Idan Ofer,Israel,M,Late 1950s,University of Haifa London Business School
+62,62,Henry Samueli,United States,M,Early 1950s,"UCLA (BS, MS, PhD)"
+63,63,Stanley Kroenke,United States,M,Late 1940s,"University of Missouri ( BA , MBA )"
+64,64,Philip Anschutz,United States,M,Late 1930s,University of Kansas
+65,65,Henry Kravis,United States,M,Early 1940s,Claremont McKenna College ( BA ) Columbia University ( MBA )
+66,66,George Kaiser,United States,M,Early 1940s,Harvard College (BA) Harvard Business School (MBA)
+67,67,Lakshmi Mittal,India,M,Early 1950s,"St. Xavier's College, Kolkata , ( B.Com. ) [ 1 ]"
+68,68,Harry Triguboff,Australia,M,Early 1930s,"Scots College , Sydney"
+69,69,Qin Yinglin,China,M,Late 1960s,Henan Agricultural University
+70,70,Mike Cannon-Brookes,Australia,M,Late 1970s,Cranbrook School
+71,71,Sarath Ratanavadi,Thailand,M,Late 1960s,"Chulalongkorn University , University of Southern California"
+72,72,James Ratcliffe,United Kingdom,M,Early 1950s,"University of Birmingham ( BSc , MSc ) London Business School (MBA)"
+73,73,Scott Farquhar,Australia,M,Late 1970s,James Ruse Agricultural High School
+74,74,Pavel Durov,United Arab Emirates,M,Early 1980s,Saint Petersburg State University ( BA )
+75,75,David Cheriton,Canada,M,Early 1950s,"University of British Columbia ( BS ) University of Waterloo ( MS , PhD )"
+76,76,John Tu,United States,M,Early 1940s,Diplom in electrical engineering
+77,77,Dustin Moskovitz,United States,M,Early 1980s,Harvard University (dropped out)
+78,78,Donald Newhouse,United States,M,Late 1920s,Syracuse University
+79,79,Eric Li,China,M,Early 1960s,St. Paul's Co-educational College Warwick School University of Manchester
+80,80,Nancy Walton Laurie,United States,F,Early 1950s,University of Memphis [ 2 ]
+81,81,David Duffield,United States,M,Early 1940s,"Cornell University (AB, MBA)"
+82,82,Alisher Usmanov,Russia,M,Early 1950s,Moscow Institute of International Relations
+83,83,Henry Nicholas III,United States,M,Late 1950s,"University of California Los Angeles (B.S, 1982; M.S., 1985; Ph.D., Electrical Engineering, 1998) [ 1 ]"
+84,84,Israel Englander,United States,M,Late 1940s,New York University (BS)
+85,85,Ray Dalio,United States,M,Late 1940s,"Long Island University, Post ( BS ) Harvard University ( MBA )"
+86,86,Dang Yanbao,China,M,Early 1970s,"Ningxia School of Finance, Peking University"
+87,87,Li Xiting,Singapore,M,Early 1950s,University of Science and Technology of China ( BA )
+88,88,Shahid Khan,United States,M,Early 1950s,University of Illinois at Urbana–Champaign ( BS )
+89,89,Peter Thiel,United States,M,Late 1960s,"Stanford University ( BA , JD )"
+90,90,John Doerr,United States,M,Early 1950s,"Rice University ( BS , MEng ) Harvard University ( MBA )"
+91,91,Uday Kotak,India,M,Late 1950s,University of Mumbai
+92,92,Mikhail Fridman,Russia,M,Early 1960s,Moscow Institute of Steel and Alloys
+93,93,James Dyson,United Kingdom,M,Late 1940s,Byam Shaw School of Art Royal College of Art
+94,94,Joseph Lau,Hong Kong,M,Early 1950s,"University of Windsor , Canada [ 4 ]"
+95,95,Wang Xing,China,M,Late 1970s,Tsinghua University ( BEng ) University of Delaware ( MS )
+96,96,Peter Woo,Hong Kong,M,Late 1940s,University of Cincinnati Columbia Business School
+97,97,Ann Walton Kroenke,United States,F,Late 1940s,Lincoln University
+98,98,Antony Ressler,United States,M,Early 1960s,Georgetown University (BSFS) Columbia University (MBA)
+99,99,Giorgio Armani,Italy,M,Early 1930s,University of Milan
+100,100,Barry Lam,Taiwan,M,Late 1940s,"National Taiwan University ( BS , MS )"
+101,101,Arthur Dantchik,United States,M,Late 1950s,Binghamton University Arizona State University
+102,102,Azim Premji,India,M,Late 1940s,Stanford University ( B.S.E ) [ 2 ]
+103,103,Anders Holch Povlsen,Denmark,M,Early 1970s,Anglia Ruskin University
+104,104,Jay Chaudhry,United States,M,Late 1950s,IIT (BHU) Varanasi University of Cincinnati
+105,105,Jude Reyes,United States,M,Late 1950s,Wofford College
+106,106,J. Christopher Reyes,United States,M,Early 1950s,University of Maryland
+107,107,Terry Gou,Taiwan,M,Early 1950s,China Maritime College ( BA )
+108,108,Robert Kraft,United States,M,Early 1940s,Columbia University ( BA ) Harvard University ( MBA )
+109,109,Sunil Mittal,India,M,Late 1950s,Punjab University [ 1 ]
+110,110,Robert Kuok,Malaysia,M,Early 1920s,Raffles Institution
+111,111,Valerie Mars,United States,F,Late 1950s,Yale University Columbia University
+112,112,Marijke Mars,United States,F,Early 1960s,Duke University
+113,113,David Steward,United States,M,Early 1950s,Central Missouri State University
+114,114,Bubba Cathy,United States,M,Early 1950s,Samford University
+115,115,Dan Cathy,United States,M,Early 1950s,Georgia Southern University ( BBA )
+116,116,Ken Fisher,United States,M,Early 1950s,"California State Polytechnic University, Humboldt"
+117,117,Marc Benioff,United States,M,Early 1960s,University of Southern California (BS)
+118,118,Richard Kinder,United States,M,Early 1940s,"University of Missouri ( BA , JD )"
+119,119,Liu Yongxing,China,M,Late 1940s,Xihua University
+120,120,Aliko Dangote,Nigeria,M,Late 1950s,"Government College, Birnin Kudu"
+121,121,Ernesto Bertarelli,Switzerland,M,Late 1960s,Babson College Harvard Business School
+122,122,James Goodnight,United States,M,Early 1940s,North Carolina State University (PhD)
+123,123,Mikhail Prokhorov,Russia,M,Late 1960s,Moscow Finance Institute
+124,124,Mangal Prabhat Lodha,India,M,Late 1950s,"Bachelor of Commerce , Bachelor in Law – University of Jodhpur"
+125,125,John Malone,United States,M,Early 1940s,"Yale University ( BA ) New York University ( MS ) Johns Hopkins University ( MS , PhD )"
+126,126,Robert Rowling,United States,M,Early 1950s,University of Texas at Austin Southern Methodist University
+127,127,Tilman Fertitta,United States,M,Late 1950s,Texas Tech University (no degree) University of Houston (no degree)
+128,128,Sandra Ortega Mera,Spain,F,Late 1960s,University of Santiago de Compostela
+129,129,Viktor Rashnikov,Russia,M,Late 1940s,Magnitogorsk Institute of Mining and Metallurgy
+130,130,Carl Cook,United States,M,Early 1960s,Purdue University University of Iowa
+131,131,Martin Lorentzon,Sweden,M,Late 1960s,Chalmers University of Technology
+132,132,Torstein Hagen,Norway,M,Early 1940s,Norwegian Institute of Technology Harvard University
+133,133,Michael Saylor,United States,M,Late 1960s,Massachusetts Institute of Technology (BSc)
+134,134,Pierre Omidyar,United States,M,Late 1960s,"University of California, Berkeley ( BS )"
+135,135,Ralph Lauren,United States,M,Late 1930s,Baruch College
+136,136,Zhong Huijuan,China,F,Early 1960s,"Jiangsu Normal University (Bachelor's), Nanjing University (Master's) [ 3 ]"
+137,137,Graeme Hart,New Zealand,M,Late 1950s,Mount Roskill Grammar School
+138,138,Sun Piaoyang,China,M,Late 1950s,"China Pharmaceutical University , Nanjing University"
+139,139,Jack Dangermond,United States,M,Late 1940s,"California State Polytechnic University, Pomona University of Minnesota Harvard University"
+140,140,Ivan Glasenberg,Switzerland,M,Late 1950s,University of Witwatersrand University of Southern California
+141,141,Leonard Lauder,United States,M,Early 1930s,University of Pennsylvania ( BS ) Columbia University ( MBA )
+142,142,Orlando Bravo,United States,M,Early 1970s,Brown University Stanford Law School Stanford Graduate School of Business
+143,143,Viatcheslav Kantor,Russia,M,Early 1950s,"Moscow Aviation Institute (diploma, 1976) Moscow Aviation Institute (PhD, 1981)"
+144,144,Arthur Blank,United States,M,Early 1940s,Babson College ( BSBA )
+145,145,Denise Coates,United Kingdom,F,Late 1960s,University of Sheffield
+146,146,Gabe Newell,United States,M,Early 1960s,Harvard University (dropped out)
+147,147,Mat Ishbia,United States,M,Early 1980s,Michigan State University
+148,148,Christopher Hohn,United Kingdom,M,Late 1960s,University of Southampton Harvard Business School
+149,149,Brian Chesky,United States,M,Early 1980s,Rhode Island School of Design ( BFA )
+150,150,Lin Bin,United States,M,Late 1960s,Sun Yat-sen University Drexel University
+151,151,Tom Gores,United States,M,Early 1960s,Michigan State University
+152,152,Ken Langone,United States,M,Late 1930s,Bucknell University ( BA ) New York University ( MBA )
+153,153,Randa Duncan Williams,United States,F,Early 1960s,Rice University University of Houston
+154,154,Nathan Blecharczyk,United States,M,Early 1980s,Harvard University ( BS )
+155,155,Milane Frantz,United States,F,Late 1960s,University of Houston
+156,156,Jim Pattison,Canada,M,Late 1920s,Sauder School of Business (dropped out)
+157,157,Igor Bukhman,Israel,M,Early 1980s,Vologda State Pedagogical Institute [ ru ]
+158,158,Micky Arison,United States,M,Late 1940s,University of Miami (dropped out)
+159,159,Pankaj Patel,India,M,Early 1950s,M.Pharm. B.A. (Science and Law)
+160,160,William Ackman,United States,M,Late 1960s,"Harvard University ( BA , MBA )"
+161,161,Tamara Gustavson,United States,F,Early 1960s,University of Southern California
+162,162,Daniel Kretinsky,Czech Republic,M,Late 1970s,Masaryk University
+163,163,Rodolphe Saadé,France,M,Early 1970s,Concordia University
+164,164,Charles Butt,United States,M,Late 1930s,University of Pennsylvania Harvard University
+165,165,Georg Schaeffler,Germany,M,Early 1960s,University of St. Gallen Duke University
+166,166,Steven Rales,United States,M,Early 1950s,"DePauw University (BA, 1973) American University (JD, 1978)"
+167,167,Jay Y. Lee,South Korea,M,Late 1960s,Seoul National University ( BA ) Keio University ( MBA ) Harvard University (dropped out)
+168,168,Joseph Tsai,Canada,M,Early 1960s,"Yale University ( BA , JD )"
+169,169,Xu Hang,Hong Kong,M,Early 1960s,"Tsinghua University ( BA , MA ) China Europe International Business School (EMBA)"
+170,170,Leo KoGuan,United States,M,Late 1950s,Columbia University New York Law School
+171,171,Marc Rowan,United States,M,Early 1960s,"University of Pennsylvania ( BS , MBA )"
+172,172,Ronda Stryker,United States,F,Early 1950s,University of Northern Colorado Western Michigan University
+173,173,German Khan,Russia,M,Early 1960s,Moscow Institute of Steel and Alloys
+174,174,David Geffen,United States,M,Early 1940s,Santa Monica College (no degree)
+175,175,Bruce Kovner,United States,M,Late 1940s,Harvard University
+176,176,Todd Boehly,United States,M,Early 1970s,College of William & Mary London School of Economics ( BBA )
+177,177,Jimmy Haslam,United States,M,Early 1950s,University of Tennessee
+178,178,Joe Gebbia,United States,M,Early 1980s,Rhode Island School of Design ( BFA ) Brown University Massachusetts Institute of Technology
+179,179,Vinod Khosla,United States,M,Late 1950s,IIT Delhi ( BTech ) Carnegie Mellon University ( MS ) Stanford University ( MBA )
+180,180,Igor Olenicoff,United States,M,Early 1940s,University of Southern California (BA & MA)
+181,181,Iskander Makhmudov,Russia,M,Early 1960s,"Degree, Oriental Studies"
+182,182,Wang Laichun,Hong Kong,F,Late 1960s,"EMBA, Tsinghua University"
+183,183,Douglas Leone,United States,M,Late 1950s,Cornell University ( BS ) Columbia University ( MS ) Massachusetts Institute of Technology (MS)
+184,184,Carl Bennet,Sweden,M,Early 1950s,University of Gothenburg
+185,185,Dan Friedkin,United States,M,Late 1960s,Georgetown University Rice University
+186,186,Marcos Galperin,Argentina,M,Page not found,"University of Pennsylvania ( BS , 1994) Stanford University ( MBA , 1999)"
+187,187,Paul Tudor Jones II,United States,M,Early 1950s,University of Virginia ( BA )
+188,188,Sri Prakash Lohia,Indonesia,M,Early 1950s,University of Delhi
+189,189,Jeff Greene,United States,M,Early 1950s,Johns Hopkins University ( BA ) Harvard University ( MBA )
+190,190,Guillaume Pousaz,Switzerland,M,Early 1980s,HEC Lausanne (dropped out)
+191,191,Jaime Gilinski Bacal,Colombia,M,Late 1950s,Georgia Tech Harvard Business School
+192,192,Laurent Dassault,France,M,Early 1950s,ESLSCA Panthéon-Assas University
+193,193,Don Hankey,United States,M,Early 1940s,University of Southern California
+194,194,Judy Faulkner,United States,F,Early 1940s,Dickinson College University of Wisconsin–Madison
+195,195,Jeffery Hildebrand,United States,M,Late 1950s,"University of Texas at Austin (B.S., M.S.)"
+196,196,Terrence Pegula,United States,M,Early 1950s,Pennsylvania State University ( BS )
+197,197,Nassef Sawiris,Egypt,M,Early 1960s,Deutsche Evangelische Oberschule
+198,198,Kelcy Warren,United States,M,Late 1950s,White Oak High School
+199,199,Stephen Bisciotti,United States,M,Early 1960s,Salisbury University
+200,200,Thomas Schmidheiny,Switzerland,M,Late 1940s,Tufts University Zurich Polytechnic
+201,201,Viktor Vekselberg,Russia,M,Late 1950s,Moscow Transportation Engineering Institute
+202,202,Neil Bluhm,United States,M,Late 1930s,University of Illinois (B.A.) Northwestern University (J.D.)
+203,203,David Bonderman,United States,M,Early 1940s,University of Washington Harvard University
+204,204,Charles Simonyi,United States,M,Late 1940s,"University of California, Berkeley Stanford University"
+205,205,Pavel Tykac,Czech Republic,M,Early 1960s,Czech Technical University in Prague
+206,206,Nathan Kirsh,Eswatini,M,Early 1930s,Potchefstroom High School for Boys University of the Witwatersrand
+207,207,Andrew Karam,United States,M,Early 1980s,B.A. and B.S. Tufts University
+208,208,John Overdeck,United States,M,Late 1960s,"Stanford University ( BS , MS )"
+209,209,Lynsi Snyder,United States,F,Early 1980s,Citrus College (no degree)
+210,210,Joe Mansueto,United States,M,Late 1950s,"University of Chicago ( AB , MBA )"
+211,211,George Soros,United States,M,Early 1930s,"London School of Economics ( BSc , MSc )"
+212,212,Andreas Halvorsen,Norway,M,Early 1960s,Williams College Stanford University
+213,213,John Collison,Ireland,M,Early 1990s,Castletroy College
+214,214,Patrick Collison,Ireland,M,Late 1980s,Gaelscoil Aonach Urmhumhan Castletroy College Massachusetts Institute of Technology
+215,215,Karen Pritzker,United States,F,Late 1950s,Northwestern University ( BA )
+216,216,Fredrik Lundberg,Sweden,M,Early 1950s,Stockholm School of Economics
+217,217,Patrick Drahi,France,M,Early 1960s,"École Polytechnique , Télécom Paris"
+218,218,Cai Haoyu,China,M,Late 1980s,Shanghai Jiao Tong University ( BSc. & MSc. )
+219,219,Forrest Li,Singapore,M,Late 1970s,Shanghai Jiaotong University ( BA ) Stanford University ( MBA )
+220,220,Nadia Thiele,Germany,F,Late 1970s,Ludwig Maximilian University of Munich
+221,221,Rocco Commisso,United States,M,Late 1940s,"Columbia University (BSc, MBA)"
+222,222,Michael Milken,United States,M,Late 1940s,"University of California, Berkeley ( BS ) University of Pennsylvania ( MBA )"
+223,223,Patrick Soon-Shiong,United States,M,Early 1950s,University of the Witwatersrand ( MBBCh ) University of British Columbia ( MSc )
+224,224,Jim Kavanaugh,United States,M,Early 1960s,Saint Louis University
+225,225,Kenneth Dart,Belize,M,Late 1950s,University of Michigan Cranbrook Kingswood School
+226,226,Samir Mehta,India,M,Early 1960s,BK School of Business Management
+227,227,Sudhir Mehta,India,M,Early 1950s,Gujarat University
+228,228,Thai Lee,United States,F,Late 1950s,Amherst College Harvard Business School
+229,229,Thomas Pritzker,United States,M,Early 1950s,"Claremont McKenna College ( BA ) University of Chicago ( JD , MBA )"
+230,230,John Grayken,Ireland,M,Late 1950s,University of Pennsylvania Harvard Business School
+231,231,Finn Rausing,Sweden,M,Late 1950s,INSEAD
+232,232,Blair Parry-Okeden,United States,F,Early 1950s,La Pietra: Hawaii School for Girls
+233,233,Stanley Druckenmiller,United States,M,Early 1950s,Bowdoin College ( BA ) University of Michigan
+234,234,Ray Lee Hunt,United States,M,Early 1940s,Southern Methodist University ( BA )
+235,235,George Kurtz,United States,M,Early 1970s,Seton Hall University ( BS )
+236,236,Robert Ziff,United States,M,Late 1960s,Harvard University (BA) Cornell University (JD)
+237,237,Daniel Ziff,United States,M,Early 1970s,Columbia University
+238,238,Liang Wengen,China,M,Late 1950s,Central South University
+239,239,Benu Gopal Bangur,India,M,Early 1930s,Calcutta University
+240,240,Jean Salata,Chile,M,Late 1960s,Wharton School of the University of Pennsylvania [ 1 ]
+241,241,Vivek Chaand Sehgal,Australia,M,Late 1950s,University of Delhi
+242,242,Mike Adenuga,Nigeria,M,Early 1950s,Ibadan Grammar School
+243,243,Tom Golisano,United States,M,Early 1940s,Alfred State College ( AAS )
+244,244,Luis Carlos Sarmiento,Colombia,M,Early 1930s,National University of Colombia
+245,245,Wu Yajun,China,F,Early 1960s,Northwestern Polytechnical University
+246,246,Michael Kadoorie,Hong Kong,M,Early 1940s,Institut Le Rosey
+247,247,Ken Xie,United States,M,Early 1960s,Tsinghua University Stanford University
+248,248,Richard Liu,China,M,Early 1970s,Renmin University ( LLB ) China Europe International Business School ( MBA )
+249,249,Michal Solowow,Poland,M,Early 1960s,Kielce University of Technology
+250,250,Alexander Karp,United States,M,Late 1960s,Haverford College ( BA ) Stanford University ( JD ) Goethe University ( PhD )
+251,251,Michael Moritz,United States,M,Early 1950s,University of Oxford (BA) University of Pennsylvania (MBA)
+252,252,Alexander Abramov,Russia,M,Late 1950s,Moscow Institute of Physics and Technology
+253,253,Sanjit Biswas,United States,M,Early 1980s,Stanford University (B.S.) MIT (S.M.)
+254,254,Tony Tamer,United States,M,Late 1950s,Rutgers University Stanford University Harvard Business School
+255,255,Magdalena Martullo-Blocher,Switzerland,F,Late 1960s,University of St. Gallen ( Licentiate II )
+256,256,Jason Chang,Singapore,M,Early 1940s,National Taiwan University ( BS ) Illinois Institute of Technology ( MS )
+257,257,Radovan Vitek,Czech Republic,M,Early 1970s,University of West Bohemia
+258,258,Ding Shijia,China,M,Early 1960s,Businessperson
+259,259,Reinhold Schmieding,United States,M,Late 1950s,Michigan State University
+260,260,Stewart Resnick,United States,M,Late 1930s,"University of California, Los Angeles (BA, JD)"
+261,261,Daniel Tsai,Taiwan,M,Late 1950s,National Taiwan University ( LLB ) Georgetown University ( LLM )
+262,262,Joseph Liemandt,United States,M,Late 1960s,Stanford University (dropped out)
+263,263,Thomas Kirk Kristiansen,Denmark,M,Late 1970s,Aarhus Business College
+264,264,Sofie Kirk Kristiansen,Denmark,F,Late 1970s,Aarhus University
+265,265,Pierre Chen,Taiwan,M,Late 1950s,National Cheng Kung University ( BS )
+266,266,Mark Walter,United States,M,Early 1960s,Creighton University ( B.A. ) Northwestern University ( J.D. )
+267,267,Pedro Moreira Salles,Brazil,M,Late 1950s,"University of California, Los Angeles"
+268,268,Herbert Wertheim,United States,M,Late 1930s,University of Florida Southern College of Optometry
+269,269,Eric Douglas,Sweden,M,Late 1960s,Pitzer College Royal Academy of Dramatic Art London Academy of Dramatic Art
+270,270,Chase Coleman III,United States,M,Late 1970s,Williams College
+271,271,Juan Roig,Spain,M,Late 1940s,University of Valencia (BA) University of Navarra (MA)
+272,272,Robert Bass,United States,M,Late 1940s,Yale University ( BA ) Stanford University ( MBA )
+273,273,Yuri Milner,Israel,M,Early 1960s,Moscow State University ( BS ) University of Pennsylvania ( MBA )
+274,274,Rick Caruso,United States,M,Late 1950s,University of Southern California ( BS ) Pepperdine University ( JD )
+275,275,Tim Sweeney,United States,M,Early 1970s,University of Maryland [ 3 ]
+276,276,Kjeld Kirk Kristiansen,Denmark,M,Late 1940s,Aarhus University ( BA ) IMD Business School ( MBA )
+277,277,Mark Cuban,United States,M,Late 1950s,University of Pittsburgh Indiana University Bloomington ( BS )
+278,278,Jon Stryker,United States,M,Late 1950s,"University of California, Berkeley Kalamazoo College"
+279,279,Igor Kesaev,Russia,M,Late 1960s,Moscow State Institute of International Relations
+280,280,Rakesh Gangwal,United States,M,Early 1950s,Indian Institute of Technology Kanpur Wharton School of the University of Pennsylvania
+281,281,Chris Larsen,United States,M,Early 1960s,San Francisco State University (B.S.)
+282,282,Shari Arison,Israel,F,Late 1950s,"Drop Out, Miami Dade College"
+283,283,Donald Trump,United States,M,Late 1940s,University of Pennsylvania ( BS )
+284,284,Patrizio Bertelli,Italy,M,Late 1940s,University of Florence Bologna University
+285,285,Miuccia Prada,Italy,F,Late 1940s,"University of Milan (BA, PhD)"
+286,286,Rajiv Bajaj,India,M,Late 1960s,"College of Engineering, Pune University of Warwick, England"
+287,287,Sanjiv Bajaj,India,M,Late 1960s,"University of Pune , University of Warwick , Harvard University"
+288,288,Ron Baron,United States,M,Early 1940s,Bucknell University George Washington University
+289,289,Jeff Rothschild,United States,M,Late 1950s,"Vanderbilt University (BS, MS)"
+290,290,Torbjorn Tornqvist,Sweden,M,Early 1950s,Stockholm University
+291,291,Frank Wang,China,M,Early 1980s,"Hong Kong University of Science and Technology ( BE , MPhil ) [ 1 ]"
+292,292,Thomas Secunda,United States,M,Early 1950s,Binghamton University
+293,293,Paolo Rocca,Italy,M,Early 1950s,University of Milan
+294,294,Gianfelice Rocca,Italy,M,Late 1940s,University of Milan
+295,295,Chip Wilson,Canada,M,Late 1950s,University of Calgary ( BA )
+296,296,Tsai Hong-tu,Taiwan,M,Early 1950s,National Taiwan University ( LLB ) Southern Methodist University ( PhD )
+297,297,T.S. Kalyanaraman,India,M,Late 1940s,Sree Kerala Varma College
+298,298,George Lucas,United States,M,Early 1940s,Modesto Junior College University of Southern California ( BFA )
+299,299,Steven Spielberg,United States,M,Late 1940s,"California State University, Long Beach ( BA )"
+300,300,N.R. Narayana Murthy,India,M,Late 1940s,"National Institute of Engineering, Mysuru ( BE ) IIT Kanpur ( MTech )"
+301,301,Vincent Viola,United States,M,Late 1950s,United States Military Academy ( BS ) New York Law School ( JD )
+302,302,Andre Esteves,Brazil,M,Late 1960s,Federal University of Rio de Janeiro [ 1 ]
+303,303,John Reece,United Kingdom,M,Late 1950s,University of Cambridge
+304,304,Herb Simon,United States,M,Early 1930s,"University of Chicago ( BA , PhD )"
+305,305,Jeff Skoll,United States,M,Late 1960s,University of Toronto Stanford University
+306,306,Reed Hastings,United States,M,Early 1960s,Bowdoin College (BA) Stanford University (MS)
+307,307,Chandru Raheja,India,M,Early 1940s,University of Mumbai
+308,308,Mark Shoen,United States,M,Early 1950s,College of the Holy Cross ( BA )
+309,309,Chairul Tanjung,Indonesia,M,Early 1960s,University of Indonesia
+310,310,Russ Weiner,United States,M,Early 1970s,Redwood High School
+311,311,Carl Icahn,United States,M,Late 1930s,Princeton University ( BA )
+312,312,Bill Haslam,United States,M,Late 1950s,Emory University ( BA )
+313,313,Ben Chestnut,United States,M,Early 1970s,University of Georgia Georgia Institute of Technology
+314,314,Dinara Kulibaeva,Kazakhstan,F,Late 1960s,Russian Institute of Theatre Arts (1989) KIMEP (1998) University of Canterbury
+315,315,Timur Kulibayev,Kazakhstan,M,Late 1960s,Moscow State University
+316,316,Murat Ulker,Turkey,M,Late 1950s,Boğaziçi University American Institute of Baking Die Süßwaren-Akademie
+317,317,Timur Turlov,Kazakhstan,M,Late 1980s,Moscow State Aviation Technological University
+318,318,Arturo Moreno,United States,M,Late 1940s,University of Arizona ( BS )
+319,319,Stefano Pessina,Monaco,M,Early 1940s,Polytechnic University of Milan ( BS )
+320,320,Hussain Sajwani,United Arab Emirates,M,Early 1950s,University of Washington
+321,321,Alejandro Bulgheroni,Argentina,M,Early 1940s,University of Buenos Aires
+322,322,Bruce Flatt,Canada,M,Late 1960s,University of Manitoba ( BComm )
+323,323,Justin Ishbia,United States,M,Late 1970s,B.A. Michigan State University J.D. Vanderbilt University School of Law
+324,324,Romesh T. Wadhwani,United States,M,Late 1940s,IIT Bombay Carnegie Mellon University
+325,325,Stephen Feinberg,United States,M,Early 1960s,Princeton University ( AB )
+326,326,Robert Faith,United States,M,Early 1960s,University of Oklahoma ( BS ) Harvard University ( MBA )
+327,327,Charles B. Johnson,United States,M,Early 1930s,Montclair High School
+328,328,Bidzina Ivanishvili,Georgia,M,Late 1950s,Tbilisi State University Moscow State University of Railway Engineering
+329,329,Eric Lefkofsky,United States,M,Late 1960s,"University of Michigan ( BA , JD )"
+330,330,Robin Li,China,M,Late 1960s,Peking University ( BMgt ) University at Buffalo ( MS )
+331,331,Daryl Katz,Canada,M,Early 1960s,"University of Alberta ( BA , LLB )"
+332,332,Jayshree Ullal,United States,F,Early 1960s,Santa Clara University San Francisco State University
+333,333,Hansjoerg Wyss,Switzerland,M,Late 1930s,"ETH Zurich ( BS , MS ) Harvard University ( MBA )"
+334,334,Zahan Mistry,Ireland,M,Late 1990s,Imperial College London London Business School
+335,335,Firoz Mistry,Ireland,M,Late 1990s,Imperial College London London Business School
+336,336,Peter Kellogg,United States,M,Early 1940s,Babson College (dropped out) [ 1 ]
+337,337,Garrett Camp,Canada,M,Late 1970s,University of Calgary (BSc & MSc)
+338,338,Daniel D'Aniello,United States,M,Late 1940s,Syracuse University Harvard University
+339,339,H. Fisk Johnson,United States,M,Late 1950s,"Cornell University ( BA , MEng , MS , MBA , PhD )"
+340,340,S. Curtis Johnson,United States,M,Late 1950s,Cornell University Kellogg School of Management
+341,341,Barry Diller,United States,M,Early 1940s,"University of California, Los Angeles (no degree)"
+342,342,Ronald Lauder,United States,M,Early 1940s,University of Pennsylvania ( BS ) University of Paris University of Brussels
+343,343,Mitchell Rales,United States,M,Late 1950s,Miami University (1978)
+344,344,Johnelle Hunt,United States,F,Early 1930s,University of Central Arkansas (dropped out)
+345,345,Venu Srinivasan,India,M,Early 1950s,"College of Engineering, Guindy Purdue University"
+346,346,Samuel Yin,Taiwan,M,Early 1950s,Chinese Culture University ( BA ) National Taiwan University ( MBA ) National Chengchi University ( PhD )
+347,347,Richard Li,Hong Kong,M,Late 1960s,Stanford University (dropped out)
+348,348,Richard Livingstone,United Kingdom,M,Early 1960s,"Winchester College New College, Oxford"
+349,349,Ugur Sahin,Germany,M,Late 1960s,"University of Cologne, Germany"
+350,350,John Catsimatidis,United States,M,Late 1940s,New York University
+351,351,Thomas Siebel,United States,M,Early 1950s,"University of Illinois Urbana-Champaign ( BA , MBA , MS )"
+352,352,Steven Udvar-Hazy,United States,M,Late 1940s,University High School
+353,353,Jon Yarbrough,United States,M,Late 1950s,Tennessee Technological University
+354,354,José E. Feliciano,United States,M,Early 1970s,Princeton University Stanford Graduate School of Business ( M.B.A. )
+355,355,Melanie Perkins,Australia,F,Late 1980s,University of Western Australia
+356,356,Cliff Obrecht,Australia,M,Late 1980s,University of Western Australia
+357,357,J. Tomilson Hill,United States,M,Late 1940s,The Buckley School Milton Academy
+358,358,Baba Kalyani,India,M,Late 1940s,"Rashtriya Military School, Belgaum Birla Institute of Technology and Science, Pilani Massachusetts Institute of Technology"
+359,359,Behdad Eghbali,United States,M,Late 1970s,"Haas School of Business at the University of California, Berkeley ( B.S. )"
+360,360,Marianne Liebmann,United States,F,Early 1950s,Montana State University
+361,361,Austen Cargill II,United States,M,Early 1950s,University of Minnesota Oregon State University
+362,362,Andrei Kozitsyn,Russia,M,Early 1960s,Ural Polytechnic Institute
+363,363,Bom Kim,United States,M,Late 1970s,Harvard University (BA)
+364,364,Donald Sterling,United States,M,Early 1930s,"California State University, Los Angeles ( BA ) Southwestern Law School ( JD )"
+365,365,Pyotr Aven,Russia,M,Late 1950s,Moscow State University
+366,366,David Filo,United States,M,Late 1960s,Tulane University ( BS ) Stanford University ( MS )
+367,367,Senapathy Gopalakrishnan,India,M,Late 1950s,Master of Science Master of Technology
+368,368,Juan Carlos Escotet,Venezuela,M,Late 1950s,Andrés Bello Catholic University University of Miami ( MS )
+369,369,Antti Herlin,Finland,M,Late 1950s,National Technical University of Athens Iowa State University
+370,370,Li Hua,China,M,Late 1970s,"Municipal Guangzhou Art School (1926) Kawabata Art Scho ol, [ clarification needed ] Tokyo (1930)"
+371,371,J. Hyatt Brown,United States,M,Late 1930s,University of Florida
+372,372,Jason Jiang,Singapore,M,Early 1970s,East China Normal University Cheung Kong Graduate School of Business
+373,373,Morris Chang,Taiwan,M,Early 1930s,"Harvard University Massachusetts Institute of Technology ( BS , MS ) Stanford University ( PhD )"
+374,374,Clive Palmer,Australia,M,Early 1950s,Aquinas College Southport State High School Toowoomba Grammar School
+375,375,Wang Jianlin,China,M,Early 1950s,Liaoning University
+376,376,Penny Pritzker,United States,F,Late 1950s,"Harvard University ( BA ) Stanford University ( JD , MBA )"
+377,377,Pat Stryker,United States,F,Late 1950s,University of Northern Colorado (dropped out)
+378,378,Anthony Pritzker,United States,M,Early 1960s,Dartmouth College ( BA ) University of Chicago ( MBA )
+379,379,Sanjiv Goenka,India,M,Early 1960s,"St. Xavier's College, Calcutta"
+380,380,Yakir Gabay,Cyprus,M,Late 1960s,Hebrew University
+381,381,Neal Aronson,United States,M,Late 1960s,Lehigh University
+382,382,Prasert Prasarttong-Osoth,Thailand,M,Early 1930s,"Faculty of Medicine Siriraj Hospital, Mahidol University"
+383,383,Pham Nhat Vuong,Vietnam,M,Late 1960s,Hanoi University of Mining and Geology [ 1 ] Moscow Geological Prospecting Institute [ 2 ]
+384,384,Joseph Grendys,United States,M,Early 1960s,"Holy Cross High School (River Grove, Illinois)"
+385,385,Marc Ladreit de Lacharriere,France,M,Early 1940s,École nationale d'administration
+386,386,David Rubenstein,United States,M,Late 1940s,Duke University ( BA ) University of Chicago ( JD )
+387,387,Mary Alice Dorrance Malone,United States,F,Early 1950s,University of Arizona
+388,388,Harsh Goenka,India,M,Late 1950s,University of Calcutta International Institute for Management Development
+389,389,Anu Aga,India,F,Early 1940s,"St. Xavier's College, Mumbai Tata Institute of Social Sciences"
+390,390,Sanjeev Bikhchandani,India,M,Early 1960s,"BA from St. Stephen's College, Delhi MBA from IIM Ahmedabad"
+391,391,Eren Ozmen,United States,F,Late 1950s,"University of Nevada, Reno (MBA)"
+392,392,Arkady Rotenberg,Russia,M,Early 1950s,"Lesgaft National State University of Physical Education, Sport and Health [ 1 ]"
+393,393,Sergei Gordeev,Russia,M,Early 1970s,Togliatti Academy of Management [ 2 ]
+394,394,Daniel Och,United States,M,Early 1960s,Wharton School of the University of Pennsylvania
+395,395,Andrew Cherng,United States,M,Late 1940s,Baker University ( BS ) University of Missouri ( MS )
+396,396,Peggy Cherng,United States,F,Late 1940s,"Oregon State University ( BS ) University of Missouri ( MS , PhD )"
+397,397,Michael Pieper,Switzerland,M,Late 1940s,University of St. Gallen
+398,398,Paolo Ardoino,Italy,M,Page not found,University of Genoa
+399,399,Bob Parsons,United States,M,Early 1950s,University of Baltimore
+400,400,Masahiro Miki,Japan,M,Late 1950s,Toho Gakuen Tanki University (1976)
+401,401,Charles Zegar,United States,M,Late 1940s,Long Island University ( BA ) New York University ( MS )
+402,402,Stewart Rahr,United States,M,Late 1940s,New York University
+403,403,Leonid Radvinsky,United States,M,Early 1980s,Northwestern University
+404,404,Nadir Godrej,India,M,Early 1950s,IIT Bombay MIT Stanford University Harvard Business School
+405,405,Adi Godrej,India,M,Early 1940s,"St. Xavier's College, Mumbai MIT Sloan School of Management"
+406,406,Jamshyd Godrej,India,M,Late 1940s,Cathedral & John Connon School Illinois Institute of Technology
+407,407,John Paulson,United States,M,Late 1950s,New York University (BA) Harvard University (MBA)
+408,408,Fatih Ozmen,United States,M,Late 1950s,"University of Nevada, Reno (MS)"
+409,409,Josh Kushner,United States,M,Late 1980s,"Harvard University ( BA , MBA )"
+410,410,Sid Bass,United States,M,Early 1940s,Yale University Stanford University
+411,411,Naguib Sawiris,Egypt,M,Early 1950s,ETH Zurich
+412,412,Meg Whitman,United States,F,Late 1950s,Princeton University ( AB ) Harvard University ( MBA )
+413,413,Anand Mahindra,India,M,Late 1950s,"The Lawrence School, Lovedale Harvard University ( BA , MBA ) [ 1 ] [ 2 ]"
+414,414,Hiroshi Mikitani,Japan,M,Late 1960s,Hitotsubashi University Harvard Business School
+415,415,Ira Rennert,United States,M,Early 1930s,Brooklyn College New York University
+416,416,Mikhail Gutseriev,Russia,M,Late 1950s,Gubkin Russian State University of Oil and Gas Financial University under the Government of the Russian Federation
+417,417,Richard Peery,United States,M,Late 1930s,Brigham Young University
+418,418,Byron Trott,United States,M,Late 1950s,"University of Chicago ( AB , MBA )"
+419,419,Alan Trefler,United States,M,Late 1950s,Dartmouth College
+420,420,Neil Shen,China,M,Late 1960s,Shanghai Jiaotong University Yale  School of Management
+421,421,Jeffrey Cheah,Malaysia,M,Late 1940s,Footscray Institute of Technology
+422,422,J.B. Pritzker,United States,M,Late 1960s,Duke University ( BA ) Northwestern University ( JD )
+423,423,Steve Wynn,United States,M,Early 1940s,University of Pennsylvania ( BA )
+424,424,Thomas Tull,United States,M,Early 1970s,Hamilton College
+425,425,Lin Jianhua,China,M,Early 1960s,Peking University
+426,426,Walter Wang,United States,M,Late 1960s,"University of California, Berkeley"
+427,427,Thomas James,United States,M,Early 1940s,"New College, Oxford"
+428,428,Ajay Piramal,India,M,Late 1950s,University of Mumbai
+429,429,Fred Ehrsam,United States,M,Late 1980s,Duke University
+430,430,Ramon Ang,Philippines,M,Early 1950s,Far Eastern University ( BS )
+431,431,Peter Gassner,United States,M,Late 1960s,"Oregon State University , 1989"
+432,432,Matthew Prince,United States,M,Late 1970s,"Trinity College, Connecticut ( BA ) University of Chicago ( JD ) Harvard University ( MBA )"
+433,433,Nandan Nilekani,India,M,Late 1950s,Bachelor of Technology
+434,434,Edwin Leong,Hong Kong,M,Early 1950s,University of British Columbia (BSc) University of Toronto (MSc) [ 2 ]
+435,435,Hubert Burda,Germany,M,Early 1940s,Ludwig Maximilian University of Munich
+436,436,Travis Kalanick,United States,M,Late 1970s,"University of California, Los Angeles (dropped out)"
+437,437,Samuel Tak Lee,Hong Kong,M,Late 1930s,"Diocesan Boys' School , Hong Kong"
+438,438,Christian Haub,Germany,M,Early 1960s,Vienna University of Economics and Business Administration
+439,439,Pansy Ho,Hong Kong,F,Early 1960s,Santa Clara University (BA)
+440,440,Madhukar Parekh,India,M,Late 1940s,UDCT (B.Sc.) University of Wisconsin (M.S.)
+441,441,Ravi Pillai,India,M,Early 1950s,University of Cochin
+442,442,Markus Blocher,Switzerland,M,Early 1970s,ETH Zurich (PhD)
+443,443,Norman Braman,United States,M,Early 1930s,Temple University
+444,444,Euisun Chung,South Korea,M,Early 1970s,Korea University University of San Francisco
+445,445,Howard Schultz,United States,M,Early 1950s,Northern Michigan University ( BA )
+446,446,Bill Alfond,United States,M,Late 1940s,Colby College The Governor's Academy
+447,447,Ted Alfond,United States,M,Early 1940s,Rollins College
+448,448,Brian Acton,United States,M,Early 1970s,Stanford University ( BCS )
+449,449,Reinold Geiger,Austria,M,Late 1940s,Swiss Federal Institute of Technology INSEAD
+450,450,Robert Friedland,United States,M,Early 1950s,Reed College (BA)
+451,451,Kalanithi Maran,India,M,Late 1960s,"Loyola College, Chennai University of Scranton"
+452,452,Tung Chee Chen,Hong Kong,M,Early 1940s,University of Liverpool Massachusetts Institute of Technology
+453,453,C. Dean Metropoulos,United States,M,Late 1940s,Babson College
+454,454,Harsh Mariwala,India,M,Early 1950s,"Sydenham College of Commerce and Economics, Mumbai"
+455,455,Warren Stephens,United States,M,Late 1950s,Washington and Lee University ( BA ) Wake Forest University ( MBA )
+456,456,Peter Spuhler,Switzerland,M,Late 1950s,University of St. Gallen
+457,457,Andrej Babis,Czech Republic,M,Early 1950s,"University of Economics, Bratislava"
+458,458,Prathap Reddy,India,M,Early 1930s,Stanley Medical College
+459,459,Hong Ra-hee,South Korea,F,Late 1940s,Seoul National University
+460,460,Kwon Hyuk-bin,South Korea,M,Early 1970s,Sogang University ( BEng. )
+461,461,Hans Peter Wild,Switzerland,M,Early 1940s,University of Mannheim
+462,462,Michael Latifi,Canada,M,Early 1960s,"McGill University ( BS , MBA ) [ 1 ]"
+463,463,Hayes Barnard,United States,M,Early 1970s,University of Missouri ( BA )
+464,464,Radha Vembu,India,F,Early 1970s,Indian Institute of Technology Madras
+465,465,Frank VanderSloot,United States,M,Late 1940s,Bachelor of Business Administration
+466,466,John Caudwell,United Kingdom,M,Early 1950s,Berry Hill High School
+467,467,Aneel Bhusri,United States,M,Late 1960s,Brown University (B.Sc.) Stanford University (M.B.A.)
+468,468,N. Murray Edwards,Canada,M,Late 1950s,University of Saskatchewan ( BCom ) University of Toronto ( LLB )
+469,469,Jay Paul,United States,M,Late 1940s,Boston University
+470,470,Ronald McAulay,Hong Kong,M,Late 1930s,University of Glasgow
+471,471,David Baszucki,United States,M,Early 1960s,Stanford University
+472,472,Mohed Altrad,France,M,Late 1940s,Paris Dauphine University
+473,473,Nicolas Berggruen,United States,M,Early 1960s,New York University
+474,474,Lorenzo Fertitta,United States,M,Late 1960s,University of San Diego (BBA) Stern School of Business (MBA)
+475,475,Daniel Loeb,United States,M,Early 1960s,"University of California, Berkeley Columbia University ( BA )"
+476,476,Frank Fertitta III,United States,M,Early 1960s,USC Marshall School of Business ( B.A./B.S. )
+477,477,Kiran Mazumdar-Shaw,India,F,Early 1950s,Bangalore University ( B.Sc. ) Melbourne University ( M.S. )
+478,478,Zhou Jianping,China,M,Early 1960s,Dalian University of Technology National University of Defense Technology
+479,479,Jack Cowin,Australia,M,Early 1940s,University of Western Ontario
+480,480,Evan Spiegel,United States,M,Early 1990s,Stanford University ( BS )
+481,481,Zhou Hongyi,China,M,Early 1970s,Xi'an Jiaotong University
+482,482,David Blitzer,United States,M,Late 1960s,"Wharton School ( BS , 1991)"
+483,483,Scott Shleifer,United States,M,Late 1970s,University of Pennsylvania
+484,484,Joseph Bae,United States,M,Early 1970s,Harvard College
+485,485,Falguni Nayar,India,F,Early 1960s,MBA Finance
+486,486,Peter Hargreaves,United Kingdom,M,Late 1940s,Clitheroe Royal Grammar School
+487,487,Theodore Leonsis,United States,M,Late 1950s,Georgetown University
+488,488,Daniel Mate,Spain,M,Early 1960s,University of Deusto
+489,489,Semahat Sevim Arsel,Turkey,F,Late 1920s,American College for Girls
+490,490,Martin Ebner,Switzerland,M,Late 1940s,University of Zurich University of Florida
+491,491,Sean Parker,United States,M,Late 1970s,Oakton High School Chantilly High School
+492,492,Katharina Otto-Bernstein,Germany,F,Early 1960s,"Columbia University (BA, MFA)"
+493,493,Otto Happel,Germany,M,Late 1940s,RWTH Aachen University
+494,494,Kevin Systrom,United States,M,Early 1980s,Stanford University ( BS )
+495,495,Oprah Winfrey,United States,F,Early 1950s,Tennessee State University ( BA )
+496,496,Koos Bekker,South Africa,M,Early 1950s,University of the Witwatersrand Columbia University
+497,497,Kuldip Singh Dhingra,India,M,Late 1940s,Delhi University
+498,498,Kavitark Ram Shriram,United States,M,Late 1950s,University of Madras
+499,499,God Nisanov,Russia,M,Early 1970s,College of Finance and Credit Baku Institute of Law
+500,500,Glen Taylor,United States,M,Early 1940s,"Minnesota State University, Mankato ( BS ) Harvard University ( MBA )"
+501,501,Frank Slootman,United States,M,Late 1950s,Erasmus University Rotterdam
+502,502,Lindsay Fox,Australia,M,Late 1930s,Melbourne High School
+503,503,Chen Fashu,China,M,Early 1960s,China Europe International Business School
+504,504,Karthik Sarma,India,M,Early 1970s,Indian Institute of Technology Princeton University
+505,505,Yusuf Hamied,India,M,Late 1930s,"Christ's College, Cambridge"
+506,506,Patrice Motsepe,South Africa,M,Early 1960s,University of Swaziland University of the Witwatersrand
+507,507,Glenn Dubin,United States,M,Late 1950s,Stony Brook University (B.A.) [ 1 ]
+508,508,Jed McCaleb,United States,M,Late 1970s,"University of California, Berkeley"
+509,509,Shi Yuzhu,China,M,Early 1960s,Zhejiang University Shenzhen University
+510,510,Philip Niarchos,Greece,M,Early 1950s,Collège Stanislas de Paris
+511,511,Tony Xu,United States,M,Early 1980s,"University of California, Berkeley ( BS ) Stanford University ( MBA )"
+512,512,Florentino Perez,Spain,M,Late 1940s,Technical University of Madrid
+513,513,Harindarpal Banga,India,M,Early 1950s,Extra First Class; T.S. Dufferin (1968) Master Mariner (1976) Fellow of the Institute of Chartered Shipbrokers
+514,514,Barry Sternlicht,United States,M,Early 1960s,Brown University (BS) Harvard University (MBA)
+515,515,James Packer,Australia,M,Late 1960s,Cranbrook School
+516,516,Steven Sarowitz,United States,M,Late 1960s,University of Illinois at Urbana–Champaign
+517,517,Roman Trotsenko,Russia,M,Early 1970s,Moscow State University
+518,518,Taha Mikati,Lebanon,M,Late 1940s,"American University of Beirut , Lebanon"
+519,519,Najib Mikati,Lebanon,M,Late 1950s,"American University of Beirut , INSEAD"
+520,520,Leon G. Cooperman,United States,M,Early 1940s,Hunter College ( BA ) Columbia University ( MBA )
+521,521,Nguyen Thi Phuong Thao,Vietnam,F,Early 1970s,Plekhanov Russian University of Economics (BA) D. Mendeleev University of Chemical Technology of Russia (PhD)
+522,522,Shigenobu Nagamori,Japan,M,Early 1940s,Polytechnic University
+523,523,Ranjan Pai,India,M,Early 1970s,"Medical graduate from Kasturba Medical College, Manipal and Fellowship in Hospital Administration in the United States"
+524,524,Marc Fielmann,Germany,M,Late 1980s,Salem Castle School
+525,525,Luca Garavoglia,Italy,M,Late 1960s,Bocconi University
+526,526,Dan Olsson,Sweden,M,Late 1940s,"Gothenburg School of Business, Economics and Law"
+527,527,Michael Hintze,Australia,M,Early 1950s,"St Leo's College, Wahroonga"
+528,528,Vadim Moshkovich,Russia,M,Late 1960s,MIREA - Russian Technological University
+529,529,Dwight Schar,United States,M,Early 1940s,Ashland University
+530,530,Mortimer Zuckerman,United States,M,Late 1930s,"McGill University ( BA , BCL ) University of Pennsylvania ( MBA ) Harvard University ( LLM )"
+531,531,Phil Ruffin,United States,M,Late 1930s,Washburn University Wichita State University
+532,532,Su Hua,China,M,Early 1980s,Tsinghua University
+533,533,Henri Beaufour,France,M,Late 1960s,Georgetown University
+534,534,Anne Beaufour,France,F,Early 1960s,University of Paris-Sud
+535,535,Denis O'Brien,Ireland,M,Late 1950s,"The High School, Dublin"
+536,536,Tyler Winklevoss,United States,M,Early 1980s,"Harvard University (BA) Christ Church, Oxford (MBA)"
+537,537,Cameron Winklevoss,United States,M,Early 1980s,"Harvard University Christ Church, Oxford"
+538,538,John Pritzker,United States,M,Early 1950s,Menlo College ( BA ) University of Denver
+539,539,Farhad Moshiri,United Kingdom,M,Late 1950s,University College London
+540,540,Caroline Hagen Kjos,Norway,F,Early 1980s,Parsons School of Design
+541,541,Lucio Tan,Philippines,M,Early 1930s,Chiang Kai Shek College Far Eastern University
+542,542,Gerald Ford,United States,M,Early 1940s,University of Michigan ( BA ) Yale University ( LLB )
+543,543,Kuok Khoon Hong,Singapore,M,Early 1950s,McGill University
+544,544,Wesley Edens,United States,M,Early 1960s,Oregon State University ( BS )
+545,545,Leonard Schleifer,United States,M,Early 1950s,"Cornell University ( BS ) University of Virginia ( MD , PhD )"
+546,546,Jerry Yang,United States,M,Late 1960s,"Stanford University ( BS , MS )"
+547,547,Alejandro Santo Domingo,United States,M,Late 1970s,Harvard University
+548,548,Bobby Murphy,United States,M,Late 1980s,"Stanford University , ( BS )"
+549,549,Oleg Deripaska,Russia,M,Late 1960s,Moscow State University Plekhanov Russian University of Economics
+550,550,Tung Chee Hwa,Hong Kong,M,Late 1930s,Chung Wah Middle School
+551,551,Stephen Lansdown,Guernsey,M,Early 1950s,Thornbury Grammar School
+552,552,Shamsheer Vayalil,India,M,Late 1970s,"Kasturba Medical College, Mangalore ( MBBS ) Sri Ramachandra Medical College and Research Institute (MD)"
+553,553,Jamie Dimon,United States,M,Late 1950s,Tufts University ( BA ) Harvard University ( MBA )
+554,554,Martin Viessmann,Germany,M,Early 1950s,University of Erlangen
+555,555,Daniel Pritzker,United States,M,Late 1950s,Tufts University ( BA ) Northwestern University ( JD )
+556,556,Edward Bass,United States,M,Late 1940s,Harvard University
+557,557,Henry Laufer,United States,M,Late 1940s,Princeton University ( PhD )
+558,558,Erman Ilicak,Turkey,M,Late 1960s,Middle East Technical University Vienna University of Economics and Business University of Minnesota
+559,559,Peter Unger,Germany,M,Early 1940s,Swarthmore College Oxford University
+560,560,Patrick Hanrahan,United States,M,Late 1950s,"University of Wisconsin ( BS , PhD )"
+561,561,Miriam Baumann-Blocher,Switzerland,F,Late 1970s,University of Zurich ( Licentiate ) University of Zurich ( JD )
+562,562,Reid Hoffman,United States,M,Late 1960s,"Stanford University ( BS ) Wolfson College, Oxford ( MSt )"
+563,563,Charles Ergen,United States,M,Early 1950s,Oak Ridge High School University of Tennessee (BA) Wake Forest University (MBA)
+564,564,Sun Guangxin,China,M,Early 1960s,Chinese Academy of Social Sciences Tianjin University
+565,565,Solomon Lew,Australia,M,Late 1940s,Mount Scopus Memorial College
+566,566,Ted Turner,United States,M,Late 1930s,Brown University
+567,567,Michael Novogratz,United States,M,Early 1960s,Fort Hunt High School
+568,568,Joseph Edelman,United States,M,Late 1950s,"BS , Psychology, 1978, University of California , San Diego MBA , New York University Stern School of Business , 1988"
+569,569,Larry Tanenbaum,Canada,M,Late 1940s,Cornell University (BSc)
+570,570,Alexander Svetakov,Russia,M,Late 1960s,Moscow Institute of Electronic Machine Building (MIEM)
+571,571,John Elkann,Italy,M,Late 1970s,Polytechnic University of Turin
+572,572,Charles Bronfman,Canada,M,Early 1930s,Selwyn House School Trinity College School
+573,573,Roger Wang,United States,M,Late 1940s,Southeastern Louisiana University ( MBA )
+574,574,Lee Boo-jin,South Korea,F,Early 1970s,Yonsei University
+575,575,Hamdi Ulukaya,Turkey,M,Early 1970s,University at Albany Ankara University
+576,576,Alice Schwartz,United States,F,Late 1920s,"University of California, Berkeley"
+577,577,Kagemasa Kozuki,Japan,M,Early 1940s,Kansai University
+578,578,Jimmy John Liautaud,United States,M,Early 1960s,Eastern Illinois University
+579,579,Steve Case,United States,M,Late 1950s,Williams College
+580,580,Shlomo Kramer,Israel,M,Late 1960s,"Tel Aviv University (B.C.S and BMath), Hebrew University (M.C.S)"
+581,581,Juan Abello,Spain,M,Early 1940s,Complutense University of Madrid Colegio del Pilar
+582,582,Bruce Karsh,United States,M,Late 1950s,Duke University ( B.A. ) University of Virginia ( J.D. )
+583,583,Wang Wenjing,China,M,Early 1960s,Jiangxi University of Finance and Economics
+584,584,Georg von Opel,Switzerland,M,Late 1960s,University of Rhode Island American InterContinental University
+585,585,Zhao Lixin,China,M,Late 1960s,Central Academy of Drama
+586,586,Jim Crane,United States,M,Early 1950s,Central Missouri State University ( BS )
+587,587,Wolfgang Leitner,Austria,M,Early 1950s,University of Graz
+588,588,Dmitry Mazepin,Russia,M,Late 1960s,MGIMO University
+589,589,Palmer Luckey,United States,M,Early 1990s,"California State University, Long Beach (dropout)"
+590,590,Baiju Bhatt,United States,M,Late 1980s,Stanford University
+591,591,Raamdeo Agrawal,India,M,Late 1950s,Chartered accountant ( Institute of Chartered Accountants of India )
+592,592,David Walentas,United States,M,Late 1930s,University of Virginia
+593,593,Jonathan Kwok,Hong Kong,M,Early 1990s,Imperial College London
+594,594,Geoffrey Kwok,Hong Kong,M,Late 1980s,Yale University Stanford University
+595,595,Lee Bass,United States,M,Late 1950s,Yale University ( BA ) Wharton School of the University of Pennsylvania ( MBA )
+596,596,Motilal Oswal,India,M,Early 1960s,"The Govt School, Padru CFO Institute of Chartered Accountants of India"
+597,597,Sam Goi,Singapore,M,Late 1940s,Dunman High School
+598,598,Susan Carol Holland,Italy,F,Late 1950s,Keele University
+599,599,Daniel Lubetzky,United States,M,Late 1960s,Trinity University ( BA ) Stanford University ( JD )
+600,600,Anita Zucker,United States,F,Early 1950s,University of Florida University of North Florida
+601,601,Stefano Gabbana,Italy,M,Early 1960s,Istituto Superiore per le Industrie Artistiche
+602,602,Guo Guangchang,China,M,Late 1960s,Fudan University
+603,603,Timothy Boyle,United States,M,Late 1940s,Jesuit High School
+604,604,Adam Neumann,Israel,M,Late 1970s,Israeli Naval Academy Baruch College
+605,605,Jorge Mas,United States,M,Early 1960s,University of Miami ( BBA and MBA )
+606,606,Stefan Soloviev,United States,M,Late 1970s,University of Rhode Island (dropped out)
+607,607,Vlad Tenev,United States,M,Late 1980s,Stanford ( BA ) UCLA (dropped out)
+608,608,Anurang Jain,India,M,Early 1960s,Bombay University International Institute for Management Development
+609,609,Fiona Geminder,Australia,F,Early 1960s,Monash University
+610,610,Tom Ford,United States,M,Early 1960s,Parsons School of Design
+611,611,Noam Gottesman,United States,M,Early 1960s,Columbia University
+612,612,Tim Cook,United States,M,Early 1960s,Auburn University ( BS ) Duke University ( MBA )
+613,613,Michael Ying,Hong Kong,M,Late 1940s,Nan Hai University (Doctorate) [ citation needed ]
+614,614,Henry Swieca,United States,M,Late 1950s,Stony Brook University ( B.A. ) Columbia Business School ( M.B.A )
+615,615,Stein Erik Hagen,Norway,M,Late 1950s,BI Norwegian Business School
+616,616,Sheryl Sandberg,United States,F,Late 1960s,"Harvard University ( AB , MBA )"
+617,617,Yvonne Bauer,Germany,F,Late 1970s,University of Bamberg
+618,618,Jay Hennick,Canada,M,Late 1950s,York University (B.A.) University of Ottawa (LL.B.)
+619,619,Stéphane Bancel,France,M,Early 1970s,CentraleSupélec University of Minnesota Harvard Business School
+620,620,Safra Catz,United States,F,Early 1960s,"University of Pennsylvania ( BA , JD )"
+621,621,S.D. Shibulal,India,M,Late 1950s,M.Sc. (Physics) M.S. (Computer Science)
+622,622,Bhavish Aggarwal,India,M,Late 1980s,IIT Bombay ( B.Tech )
+623,623,Lawrence Golub,United States,M,Late 1950s,JD-MBA B.A.
+624,624,Jennifer Pritzker,United States,F,Early 1950s,Loyola University Chicago ( BA )
+625,625,Ferit Faik Sahenk,Turkey,M,Early 1960s,Boston College
+626,626,Hui Wing Mau,Hong Kong,M,Early 1950s,University of Adelaide [ 1 ] [ 2 ]
+627,627,Rolf Gerling,Germany,M,Early 1950s,University of Zurich
+628,628,Larry Robbins,United States,M,Late 1960s,University of Pennsylvania [ 2 ]
+629,629,Alec Gores,United States,M,Early 1950s,Western Michigan University
+630,630,Dmitry Kamenshchik,Russia,M,Late 1960s,Lomonosov Moscow State University
+631,631,Jonathan Tisch,United States,M,Early 1950s,Tufts University
+632,632,Alexandre Grendene Bartelle,Brazil,M,Early 1950s,University of Caxias do Sul
+633,633,Bahaa Hariri,Lebanon,M,Late 1960s,Boston University
+634,634,Boris Zingarevich,Russia,M,Late 1950s,Leningrad Technological Institute for the Pulp and Paper Industry
+635,635,Thaksin Shinawatra,Thailand,M,Late 1940s,Armed Forces Academies Preparatory School Royal Police Cadet Academy Eastern Kentucky University Sam Houston State University ( Ph.D. )
+636,636,Jerry Reinsdorf,United States,M,Late 1930s,George Washington University ( BA ) Northwestern University ( JD )
+637,637,Dennis Gillings,United Kingdom,M,Early 1940s,University of Exeter
+638,638,Drew Houston,United States,M,Early 1980s,Massachusetts Institute of Technology
+639,639,Edward Lampert,United States,M,Early 1960s,Yale University
+640,640,Stephan Schmidheiny,Switzerland,M,Late 1940s,University of Zurich ( PhD )
+641,641,James Dinan,United States,M,Late 1950s,University of Pennsylvania Harvard University
+642,642,T. Denny Sanford,United States,M,Late 1930s,University of Minnesota
+643,643,Phillip Frost,United States,M,Late 1930s,University of Pennsylvania ( BA Albert Einstein College of Medicine ( MD )
+644,644,Thor Bjorgolfsson,Iceland,M,Late 1960s,Verzlunarskóli Íslands
+645,645,He Xiaopeng,China,M,Late 1970s,South China University of Technology
+646,646,Anand Burman,India,M,Early 1950s,"St. Paul's School, Darjeeling"
+647,647,Elaine Wynn,United States,F,Early 1940s,George Washington University
+648,648,Katarina Martinson,Sweden,F,Early 1980s,Stockholm School of Economics
+649,649,Wang Junmin,China,M,Late 1960s,Shandong University East China Normal University Central Party School of the Chinese Communist Party
+650,650,Frank Laukien,United States,M,Early 1960s,Massachusetts Institute of Technology (BS) Harvard University (PhD)
+651,651,Tim Draper,United States,M,Late 1950s,Stanford University ( BS ) Harvard University ( MBA )
+652,652,Craig McCaw,United States,M,Late 1940s,Stanford University
+653,653,John Hancock,Australia,M,Late 1970s,Harvard University
+654,654,Kiril Domuschiev,Bulgaria,M,Late 1960s,"Technical University, Sofia"
+655,655,Thomas Steyer,United States,M,Late 1950s,Yale University ( BA ) Stanford University ( MBA )
+656,656,Marcelo Claure,United States,M,Early 1970s,Bentley University ( BS )
+657,657,Joseph Steinberg,United States,M,Early 1940s,New York University School of Law
+658,658,Tom Werner,United States,M,Early 1950s,St. Bernard's School Hotchkiss School
+659,659,Stephen Rubin,United Kingdom,M,Late 1930s,Canford School
+660,660,Kabir Mulchandani,India,M,Early 1970s,"Stanford University , Phillips Exeter Academy"
+661,661,Filiz Sahenk,Turkey,F,Late 1960s,Boston College
+662,662,Amy Adams Strunk,United States,F,Late 1950s,University of Texas at Austin
+663,663,Luciano Hang,Brazil,M,Early 1960s,Blumenau Regional University
+664,664,Michael Ashcroft,United Kingdom,M,Late 1940s,"Norwich School Royal Grammar School, High Wycombe"
+665,665,Zhang Bangxin,China,M,Early 1980s,"EMBA, China Europe International Business School"
+666,666,Olivier Bouygues,France,M,Early 1950s,IFP School
+667,667,Sergei Katsiev,Russia,M,Late 1950s,Moscow Institute of International Relations
+668,668,Oren Zeev,Israel,M,Early 1960s,"BSc cum laude Elecetrical Engineering, Technion , Israel. MBA with Distinction, INSEAD , France"
+669,669,Eugene Kaspersky,Russia,M,Late 1960s,IKSI
+670,670,Devi Shetty,India,M,Early 1950s,"Kasturba Medical College, Mangalore ( MBBS , MS ) Royal college of Surgeons ( FRCS )"
+671,671,Alexander Ponomarenko,Russia,M,Early 1960s,Simferopol State University Russian State Academy of Management
+672,672,Amy Wyss,United States,F,Early 1970s,Skidmore College
+673,673,Thomas Wu,Taiwan,M,Early 1950s,"Fu Jen Catholic University ( BA ) University of California, Los Angeles ( MBA )"
+674,674,Simon Nixon,United Kingdom,M,Late 1960s,"St Richard Gwyn Catholic High School, Flint"
+675,675,Victor Pinchuk,Ukraine,M,Early 1960s,Dnipropetrovsk Metallurgical Institute (doctorate)
+676,676,Solina Chau,Hong Kong,F,Early 1960s,University of New South Wales
+677,677,Alexandr Wang,United States,M,Late 1990s,Massachusetts Institute of Technology (dropped out)
+678,678,Mario Gabelli,United States,M,Early 1940s,Fordham University Columbia Business School
+679,679,Lim Kok Thay,Malaysia,M,Early 1950s,University of London
+680,680,Teresita Sy-Coson,Philippines,F,Early 1950s,Immaculate Conception Academy–Greenhills Assumption College San Lorenzo
+681,681,Max Levchin,United States,M,Late 1970s,University of Illinois at Urbana-Champaign (BS)
+682,682,Terry Taylor,United States,M,Early 1950s,Guilford College
+683,683,John Abele,United States,M,Late 1930s,Amherst College
+684,684,Jim McKelvey,United States,M,Late 1960s,Washington University in St. Louis
+685,685,Todd Wagner,United States,M,Early 1960s,Indiana University Bloomington University of Virginia
+686,686,Chirayu Amin,India,M,Late 1940s,Maharaja Sayajirao University of Baroda (B.A.) Seton Hall University (MBA)
+687,687,Dominika Kulczyk,Poland,F,Late 1970s,Adam Mickiewicz University
+688,688,Chi Yufeng,China,M,Early 1970s,Tsinghua University
+689,689,Wee Ee Cheong,Singapore,M,Early 1950s,"American University ( BS , MA )"
+690,690,Marc Andreessen,United States,M,Page not found,University of Illinois at Urbana–Champaign ( BS )
+691,691,Marc Lasry,United States,M,Early 1960s,Clark University ( BA ) New York Law School ( JD )
+692,692,Bang Si-hyuk,South Korea,M,Early 1970s,Seoul National University ( BA )
+693,693,Ronald Perelman,United States,M,Early 1940s,Villanova University ( BS ) University of Pennsylvania ( MBA )
+694,694,Nihat Ozdemir,Turkey,M,Early 1950s,Gazi University
+695,695,James Leininger,United States,M,Late 1940s,"Indiana University Indianapolis ( BA , MD )"
+696,696,Matthew Roszak,United States,M,Early 1970s,Lake Forest College
+697,697,Michael Minhong Yu,China,M,Early 1960s,Peking University
+698,698,Louis Le Duff,France,M,Late 1940s,École supérieure des sciences commerciales d'Angers Université de Sherbrooke University of Rennes
+699,699,Stewart Butterfield,Canada,M,Early 1970s,"University of Victoria Clare College, Cambridge"
+700,700,Thomas Kwok,Hong Kong,M,Early 1950s,London Business School Imperial College
+701,701,Ilkka Herlin,Finland,M,Late 1950s,Doctor of Philosophy [ 1 ]
+702,702,Strive Masiyiwa,Zimbabwe,M,Early 1960s,University of Wales
+703,703,Brian Higgins,United States,M,Late 1960s,"Buffalo State College ( BA , MA ) Harvard University ( MPA )"
+704,704,Pierre Karl Péladeau,Canada,M,Early 1960s,Collège Jean-de-Brébeuf UQAM Université de Montréal
+705,705,Andrew Tan,Philippines,M,Early 1950s,University of the East
+706,706,Charles Liang,United States,M,Late 1950s,National Taiwan University of Science and Technology ( BS ) University of Texas at Arlington ( MS )
+707,707,Hou Juncheng,China,M,Early 1960s,Tsinghua University
+708,708,Amnon Shashua,Israel,M,Early 1960s,Tel-Aviv University (BS) Weizmann Institute of Science (MS) Massachusetts Institute of Technology (PhD)
+709,709,Mohammed Dewji,Tanzania,M,Late 1970s,Georgetown University
+710,710,Jane Lauder,United States,F,Early 1970s,Stanford University
+711,711,Gary Michelson,United States,M,Late 1940s,Temple University Hahnemann Medical College
+712,712,Stanley Hubbard,United States,M,Early 1930s,University of Minnesota
+713,713,Harald Link,Thailand,M,Late 1950s,University of St. Gallen
+714,714,Jim Breyer,United States,M,Early 1960s,Stanford University ( BS ) Harvard University ( MBA )
+715,715,Mark Coombs,United Kingdom,M,Early 1960s,Dulwich College
+716,716,Ingrid Wu,United States,F,Page not found,Changzhou School of Public Health
+717,717,George Alexander Muthoot,India,M,Late 1950s,Chartered Accountant
+718,718,Ben Silbermann,United States,M,Early 1980s,Yale University
+719,719,Alain Taravella,France,M,Late 1940s,HEC Paris
+720,720,Gregg Hymowitz,United States,M,Late 1960s,State University of New York at Binghamton ( BA ) Harvard University ( JD )
+721,721,Terry Snow,Australia,M,Early 1940s,Canberra Grammar School
+722,722,Pawan Munjal,India,M,Early 1950s,National Institute of Technology Kurukshetra
+723,723,Matthew Pritzker,United States,M,Early 1980s,American University
+724,724,Joel Glazer,United States,M,Late 1960s,American University
+725,725,Avram Glazer,United States,M,Early 1960s,Washington University in St. Louis (BSBA) American University (JD)
+726,726,Vasily Anisimov,Croatia,M,Early 1950s,Alma-Ata Institute of National Economy
+727,727,Peter Lim,Singapore,M,Early 1950s,University of Western Australia
+728,728,Lloyd Blankfein,United States,M,Early 1950s,"Harvard University ( BA , JD )"
+729,729,Kochouseph Chittilappilly,India,M,Early 1950s,Master of Science ( Physics )
+730,730,Adebayo Ogunlesi,United States,M,Early 1950s,"Lincoln College, Oxford Harvard Law School Harvard Business School"
+731,731,Sharon Azrieli,Canada,F,Early 1960s,"Vassar College ( BA ) Parsons School of Design (AAS) Juilliard School (Adv Cert Vocal Perf) l'Université de Montréal ( MA , DMus )"
+732,732,Danna Azrieli,Israel,F,Late 1960s,Swarthmore College (BA) Vermont Law School ( Juris Doctor (JD))
+733,733,George Yancopoulos,United States,M,Late 1950s,"Columbia University ( BA , MD , PhD )"
+734,734,Liu Weiping,China,M,Late 1970s,Nanjing University of Aeronautics and Astronautics Central Party School
+735,735,Eduardo Costantini,Argentina,M,Late 1940s,Pontifical Catholic University of Argentina University of East Anglia
+736,736,Nicholas Pritzker,United States,M,Early 1940s,Reed College Lake Forest College London Film School University of Chicago
+737,737,Jeffrey Gundlach,United States,M,Late 1950s,Dartmouth College Yale University
+738,738,Christoffel Wiese,South Africa,M,Early 1940s,Paarl Boys' High School
+739,739,Daniel Dines,Romania,M,Early 1970s,University of Bucharest
+740,740,Mike Repole,United States,M,Late 1960s,St. John's University
+741,741,Karl-Johan Persson,Sweden,M,Late 1970s,European Business School
+742,742,Rubens Menin Teixeira de Souza,Brazil,M,Late 1950s,Universidade Federal de Minas Gerais
+743,743,Zhou Yahui,China,M,Late 1970s,Tsinghua University
+744,744,Radhe Shyam Agarwal,India,M,Late 1940s,LLB MSc
+745,745,Richard Hayne,United States,M,Late 1940s,Lehigh University
+746,746,Aloke Lohia,India,M,Late 1950s,University of Delhi
+747,747,Gerald Schwartz,Canada,M,Early 1940s,"University of Manitoba (BA, LLB) Harvard University (MBA)"
+748,748,Eduard Kucera,Czech Republic,M,Early 1950s,Charles University
+749,749,Stephen Jarislowsky,Canada,M,Late 1920s,Cornell University [ 1 ] University of Chicago [ 2 ] Harvard Business School [ 3 ]
+750,750,Li Zhongchu,China,M,Early 1960s,Bachelor of Science (Space physics)
+751,751,Ben Ashkenazy,United States,M,Late 1960s,Adelphi University (did not graduate)
+752,752,Andy Fang,United States,M,Early 1990s,Stanford University
+753,753,Leonid Simanovsky,Russia,M,Late 1940s,Kuybyshev Planning Institute
+754,754,Min-Liang Tan,Singapore,M,Late 1970s,"National University of Singapore (LLB, LLM)"
+755,755,Jeffrey Lorberbaum,United States,M,Early 1950s,University of Denver
+756,756,Bharat Desai,United States,M,Early 1950s,"University of Michigan Indian Institute of Technology, Bombay"
+757,757,Toto Wolff,Austria,M,Early 1970s,Vienna University of Economics and Business (dropped out)
+758,758,Arkady Volozh,Russia,M,Early 1960s,Gubkin Russian State University of Oil and Gas
+759,759,Tom Persson,Sweden,M,Late 1980s,Met Film School
+760,760,Nikil Viswanathan,United States,M,Late 1980s,"Stanford University [ 2 ] ( M.S. Computer Science, 2012) Stanford University ( B.S. Computer Science, 2010) Lubbock High School"
+761,761,Liesel Pritzker Simmons,United States,F,Early 1980s,Columbia University ( BA )
+762,762,Hal Steinbrenner,United States,M,Late 1960s,Williams College ( BA ) University of Florida ( MBA )
+763,763,Ben Navarro,United States,M,Early 1960s,University of Rhode Island (1984)
+764,764,Justin Yuan,China,M,Page not found,Shanghai Theatre Academy
+765,765,Sebastian Kulczyk,Poland,M,Early 1980s,Adam Mickiewicz University
+766,766,Femi Otedola,Nigeria,M,Early 1960s,Olivet Baptist High School
+767,767,James Tisch,United States,M,Early 1950s,BA Cornell University MBA University of Pennsylvania
+768,768,Stanley Tang,United States,M,Early 1990s,Stanford University
+769,769,Habil Khorakiwala,India,M,Early 1940s,"Purdue University, Harvard Business School"
+770,770,Vladimir Bogdanov,Russia,M,Early 1950s,Tyumen Industrial Institute
+771,771,Weili Dai,United States,F,Early 1960s,"University of California, Berkeley"
+772,772,Mori Arkin,Israel,M,Early 1950s,Tel Aviv University
+773,773,Paul Sciarra,United States,M,Early 1980s,Yale University
+774,774,Hary Tanoesoedibjo,Indonesia,M,Late 1960s,St Louis 1 School
+775,775,Jim Koch,United States,M,Late 1940s,Harvard University
+776,776,Frank McCourt,United States,M,Early 1950s,New York University Brooklyn College
+777,777,Igor Rybakov,Russia,M,Early 1970s,Moscow Institute of Physics and Technology
+778,778,Chris Wallin,Australia,M,Early 1950s,Brisbane State High School
+779,779,Bachtiar Karim,Indonesia,M,Late 1950s,NUS Business
+780,780,Brett Adcock,United States,M,Late 1980s,University of Florida
+781,781,Yuri Shefler,Russia,M,Late 1960s,Plekhanov Russian University of Economics (1996) [ 2 ]
+782,782,Onkar Kanwar,India,M,Early 1940s,California State University
+783,783,Vincent Lo,Hong Kong,M,Late 1940s,St. Joseph College University of New South Wales
+784,784,Mark Pincus,United States,M,Late 1960s,University of Pennsylvania ( BS ) Harvard University ( MBA )
+785,785,Saket Burman,United Kingdom,M,Late 1970s,University of Wisconsin–Madison
+786,786,Niranjan Hiranandani,India,M,Early 1950s,Chartered accountant
+787,787,Art Levinson,United States,M,Early 1950s,University of Washington ( BS ) Princeton University ( PhD )
+788,788,Binny Bansal,India,M,Early 1980s,IIT Delhi
+789,789,Steven Schuurman,Netherlands,M,Late 1970s,Reichman University
+790,790,Ayman Hariri,Lebanon,M,Late 1970s,Georgetown University
+791,791,Ali Ghodsi,Sweden,M,Late 1970s,KTH Royal Institute of Technology (Ph.D.)
+792,792,Brandt Louie,Canada,M,Early 1940s,University of British Columbia
+793,793,Randal J. Kirk,United States,M,Early 1950s,"Radford University (BA,) [ 2 ] University of Virginia School of Law (JD) [ 3 ]"
+794,794,Ziv Aviram,Israel,M,Late 1950s,Ben Gurion University of the Negev
+795,795,Brad Keywell,United States,M,Late 1960s,"University of Michigan ( BBA , JD )"
+796,796,Richard Fairbank,United States,M,Early 1950s,Pomona College Stanford University Stanford Graduate School of Business
+797,797,Anna Maria Braun,Germany,F,Late 1970s,Georgetown University
+798,798,Zhou Jian,China,M,Late 1970s,University of Queensland University of Cambridge
+799,799,Henry Engelhardt,United States,M,Late 1950s,University of Michigan INSEAD
+800,800,Bulent Eczacibasi,Turkey,M,Late 1940s,"Deutsche Schule Istanbul Imperial College London , Massachusetts Institute of Technology"
+801,801,Michael Steinhardt,United States,M,Early 1940s,University of Pennsylvania (B.S.)
+802,802,Edwin Soeryadjaya,Indonesia,M,Late 1940s,"University of Southern California ( BA , BS )"
+803,803,Heikki Herlin,Finland,M,Late 1980s,MSc (technology)
+804,804,Vadim Yakunin,Russia,M,Early 1960s,Moscow Institute of Physics and Technology
+805,805,Tianqiao Chen,China,M,Early 1970s,Fudan University
+806,806,Andrew Tisch,United States,M,Late 1940s,"Cornell University , BS Harvard University , MBA"
+807,807,Joe Kiani,United States,M,Early 1960s,"San Diego State University (B.S.), (M.S.)"
+808,808,Lee Hae-jin,South Korea,M,Late 1960s,Seoul National University KAIST
+809,809,Diego Della Valle,Italy,M,Early 1950s,University of Bologna
+810,810,Tony Tan Caktiong,Philippines,M,Early 1950s,University of Santo Tomas ( BS )
+811,811,Seth Klarman,United States,M,Late 1950s,Cornell University ( AB ) Harvard University ( MBA )
+812,812,Zhang Wenzhong,China,M,Early 1960s,Chinese Academy of Sciences Nankai University
+813,813,Michelle Zatlyn,Canada,F,Late 1970s,McGill University (BS) Harvard University (MBA)
+814,814,Luis von Ahn,United States,M,Late 1970s,Duke University ( BS ) Carnegie Mellon University (PhD)
+815,815,Timothy Springer,United States,M,Late 1940s,"Harvard University ( PhD ) University of California, Berkeley ( BA ) [ 1 ]"
+816,816,Jahm Najafi,United States,M,Early 1960s,"University of California, Berkeley Harvard University"
+817,817,Ben Francis,United Kingdom,M,Early 1990s,South Bromsgrove High School
+818,818,Youssef Mansour,Egypt,M,Late 1940s,North Carolina State University Auburn University
+819,819,Severin Hacker,Switzerland,M,Early 1980s,ETH Zurich ( BS ) Carnegie Mellon University ( PhD )
+820,820,Chung Mong-joon,South Korea,M,Early 1950s,Seoul National University ( BA ) Massachusetts Institute of Technology ( MBA ) Johns Hopkins University ( PhD )
+821,821,Larry Fink,United States,M,Early 1950s,"University of California, Los Angeles ( BA , MBA )"
+822,822,Zhou Chengjian,China,M,Late 1960s,Zhejiang University
+823,823,Eduardo Hochschild,Peru,M,Early 1960s,Tufts University
+824,824,James Jannard,United States,M,Late 1940s,University of Southern California (dropped out)
+825,825,Roman Avdeev,Russia,M,Late 1960s,"Moscow Power Engineering Institute (1986), Moscow International University of Business and Information Technologies (1994), Lipetsk State Technical University (1996) [ 1 ]"
+826,826,David Chen,Singapore,M,Early 1980s,"University of California, Irvine [ 1 ]"
+827,827,Nancy Lerner,United States,F,Early 1960s,University of Cincinnati ( BA ) Cleveland State University ( JD )
+828,828,Kirill Minovalov,Russia,M,Early 1970s,Moscow Institute for Railway Engineering
+829,829,Keeree Kanjanapas,Thailand,M,Early 1950s,Pui Kiu Middle School
+830,830,Randolph Lerner,United States,M,Early 1960s,"Columbia University Columbia Law School Clare College, Cambridge"
+831,831,Myron Wentz,St. Kitts and Nevis,M,Early 1940s,"North Central College , University of North Dakota, The University of Utah"
+832,832,Apoorva Mehta,Canada,M,Late 1980s,University of Waterloo
+833,833,Vladimir Krupchak,Cyprus,M,Late 1950s,Arkhangelsk State Medical Institute
+834,834,Jeffrey Soffer,United States,M,Late 1960s,Brandeis University ( B.A. )
+835,835,Sachin Bansal,India,M,Early 1980s,Indian Institute of Technology Delhi
+836,836,Barbara Berlusconi,Italy,F,Early 1980s,San Raffaele University
+837,837,Vadim Novinsky,Ukraine,M,Early 1960s,Leningrad Academy of Civil Aviation
+838,838,Patrizio Vinciarelli,United States,M,Late 1940s,Sapienza University of Rome
+839,839,Selçuk Bayraktar,Turkey,M,Late 1970s,Robert College Istanbul Technical University University of Pennsylvania Massachusetts Institute of Technology
+840,840,Pan Shiyi,China,M,Early 1960s,Hebei Technical College of Petroleum Profession
+841,841,Oleg Boyko,Russia,M,Early 1960s,"Moscow Aviation University , Presidential Academy of National Economy and Public Administration"
+842,842,Forrest Preston,United States,M,Early 1930s,Walla Walla College Oregon State University
+843,843,Zsolt Felcsuti,Hungary,M,Early 1970s,Corvinus University of Budapest [ 1 ]
+844,844,Kostyantin Zhevago,Ukraine,M,Early 1970s,Kyiv National Economic University
+845,845,John Oyler,United States,M,Late 1960s,Mt. Lebanon High School Massachusetts Institute of Technology (BA) Stanford Graduate School of Business (MBA)
+846,846,Noubar Afeyan,United States,M,Early 1960s,"McGill University (B.Eng., 1983) Massachusetts Institute of Technology (Ph.D, Biochemical Engineering, 1987)"
+847,847,Aerin Lauder,United States,F,Early 1970s,University of Pennsylvania
+848,848,J. Christopher Flowers,United States,M,Late 1950s,Harvard University ( BA ) [ 1 ]
+849,849,J. Wayne Weaver,United States,M,Late 1930s,University of Florida
+850,850,Ion Stoica,Romania,M,Late 1960s,Carnegie Mellon University
+851,851,Matei Zaharia,Romania,M,Late 1980s,UC Berkeley (Ph.D.) University of Waterloo (BMath)
+852,852,Timothy Headington,United States,M,Early 1950s,University of Oklahoma Fuller Theological Seminary
+853,853,Thomas Sandell,Sweden,M,Early 1960s,Uppsala University Columbia University
+854,854,Ankur Jain,United States,M,Early 1990s,Wharton School of the University of Pennsylvania
+855,855,Li Jinyang,China,F,Page not found,Master of Fine Arts Bachelor of Arts
+856,856,Raymond Kwok,Hong Kong,M,Early 1950s,Cambridge University (BA Law) Harvard Business School ( M.B.A. )
+857,857,David McMurtry,United Kingdom,M,Early 1940s,Mountjoy School
+858,858,Yasseen Mansour,Egypt,M,Early 1960s,George Washington University
+859,859,Dick Wolf,United States,M,Late 1940s,University of Pennsylvania ( BA )
+860,860,Yury Maksimov,Russia,M,Late 1970s,Moscow State University ; PhD in physics
+861,861,Naresh Trehan,India,M,Late 1940s,King George's Medical College ( MBBS )
+862,862,Aydin Dogan,Turkey,M,Late 1930s,Istanbul Economy and Commerce Academy
+863,863,Park Hyeon-joo,South Korea,M,Late 1950s,Korea University (BA)
+864,864,Stelios Haji-Ioannou,Cyprus,M,Late 1960s,Bayes Business School London School of Economics
+865,865,Said Gutseriev,Russia,M,Late 1980s,Oxford University Plymouth University
+866,866,Suh Kyung-bae,South Korea,M,Early 1960s,Yonsei University Samuel Curtis Johnson Graduate School of Management at Cornell University
+867,867,Mathias Doepfner,Germany,M,Early 1960s,University of Frankfurt (PhD)
+868,868,Zhang Xin,China,F,Late 1960s,University of Sussex University of Cambridge [ 1 ]
+869,869,Sara Blakely,United States,F,Early 1970s,Florida State University
+870,870,Nicholas Woodman,United States,M,Late 1970s,"University of California, San Diego"
+871,871,Achal Bakeri,India,M,Early 1960s,CEPT University University of Southern California
+872,872,Ken Kendrick,United States,M,Early 1940s,West Virginia University (BBA)
+873,873,Michael Kum,Singapore,M,Late 1940s,London Chamber of Commerce (1966)
+874,874,John Lim,Singapore,M,Late 1950s,Seoul Theological University ( BA ) George Fox University ( MDiv )
+875,875,Sam Altman,United States,M,Late 1980s,Stanford University (dropped out)
+876,876,Blair Hull,United States,M,Page not found,"University of California, Santa Barbara ( BA ) Santa Clara University ( MBA )"
+877,877,Kevin Plank,United States,M,Early 1970s,"University of Maryland, College Park (BA)"
+878,878,Analjit Singh,India,M,Early 1950s,The Doon School Shri Ram College of Commerce Boston University
+879,879,Haluk Bayraktar,Turkey,M,Late 1970s,Middle East Technical University Columbia University
+880,880,Jerry Seinfeld,United States,M,Early 1950s,"State University of New York at Oswego Queens College, City University of New York ( BA )"
+881,881,Arnold Schwarzenegger,United States,M,Late 1940s,Santa Monica College UCLA Extension University of Wisconsin–Superior ( BBA ) [ 1 ] [ 2 ]
+882,882,Chey Tae-won,South Korea,M,Early 1960s,Korea University ( BS )
+883,883,Theresia Gouw,United States,F,Late 1960s,"Brown University , Stanford Graduate School of Business"
+884,884,Sanjay Agarwal,India,M,Early 1970s,Chartered Accountant
+885,885,Bob Muglia,United States,M,Late 1950s,University of Michigan
+886,886,Sun Hongbin,United States,M,Early 1960s,Wuhan Water Conservancy and Electric Power College ( UG ) Tsinghua University ( MEng )
+887,887,Gyorgy Gattyan,Hungary,M,Page not found,Kodolányi János University
+888,888,Jiang Long,China,M,Early 1970s,Nanjing University Soviet Academy of Sciences
+889,889,Muhammed Aziz Khan,Singapore,M,Late 1950s,"Institute of Business Administration, University of Dhaka (MBA)"
+890,890,Vivek Ramaswamy,United States,M,Late 1980s,Harvard University ( BA ) Yale University ( JD )
+891,891,Weijian Shan,Hong Kong,M,Early 1950s,"University of International Business and Economics (Beijing) University of San Francisco University of California, Berkeley"
+892,892,Nguyen Dang Quang,Vietnam,M,Early 1960s,Plekhanov Russian University of Economics National Academy of Sciences of Belarus
+893,893,Orion Hindawi,United States,M,Early 1980s,"University of California, Berkeley"
+894,894,Murat Vargi,Turkey,M,Late 1940s,Helsinki School of Economics
+895,895,William Fung,Hong Kong,M,Late 1940s,Princeton University Harvard Business School
+896,896,Tory Burch,United States,F,Late 1960s,University of Pennsylvania ( BA )
+897,897,Vijay Shekhar Sharma,India,M,Late 1970s,Delhi College of Engineering (B.Tech)
+898,898,Victor Fung,United States,M,Late 1940s,Massachusetts Institute of Technology Harvard School of Business
+899,899,Sunder Genomal,United Kingdom,M,Early 1950s,De La Salle University
+900,900,Louis Bacon,United States,M,Late 1950s,Middlebury College Columbia University
+901,901,Harry Klagsbrun,Sweden,M,Early 1950s,B.A. Stockholm University M.B.A. New York University M.Sc. Stockholm School of Economics
+902,902,Larry Silverstein,United States,M,Early 1930s,New York University
+903,903,Neerja Sethi,United States,F,Late 1950s,"University of Michigan Indian Institute of Technology, Bombay"
+904,904,Yang Yuanqing,China,M,Early 1960s,Shanghai Jiao Tong University ( BA ) University of Science and Technology of China ( MSc )
+905,905,Elizabeth Holmes,United States,F,Early 1980s,Stanford University (dropped out)
+906,906,Sam Bankman-Fried,United States,M,Early 1990s,Massachusetts Institute of Technology ( BS )
